@@ -83,7 +83,7 @@ https://templatemo.com/tm-545-finance-business
 		  <div class="col-md-12">
             <div class="section-heading">
               <h1>Faites connaissance <em>avec notre entreprise</em></h1>
-                <span>Propulsez durablement vos idées.</span>
+                <span>Propulsez durablement vos idées</span>
             </div>
           </div>
         </div>

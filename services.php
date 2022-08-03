@@ -42,7 +42,7 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <img src="assets/images/logo.png" width="70" height="70" style="margin-right: 10px">
+          <img src="assets/images/logo.png" width="60" height="60" style="margin-left: 15px">
           <!--<a class="navbar-brand" href="index.php"><h2>Green Planet Communication</h2></a>-->
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -82,7 +82,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <h1>Green Planet Communication</h1>
-            <span>Propulsez durablement vos idées.</span>
+            <span>Propulsez durablement vos idées</span>
           </div>
         </div>
       </div>
