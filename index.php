@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
   <head>
 
@@ -155,7 +155,7 @@ https://templatemo.com/tm-545-finance-business
     </div>
     <!-- Banner Ends Here -->
 
-    <div class="request-form">
+    <!--<div class="request-form">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
@@ -167,7 +167,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
 
     <div class="services">
       <div class="container">
