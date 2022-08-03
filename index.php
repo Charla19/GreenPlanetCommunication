@@ -269,10 +269,10 @@ https://templatemo.com/tm-545-finance-business
                 </div>
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
-                    <span>Who we are</span>
-                    <h2>Get to know about <em>our company</em></h2>
-                    <p>Curabitur pulvinar sem a leo tempus facilisis. Sed non sagittis neque. Nulla conse quat tellus nibh, id molestie felis sagittis ut. Nam ullamcorper tempus ipsum in cursus<br><br>Praes end at dictum metus. Morbi id hendrerit lectus, nec dapibus ex. Etiam ipsum quam, luctus eu egestas eget, tincidunt</p>
-                    <a href="#" class="filled-button">Read More</a>
+                    <span>Qui sommes-nous?</span>
+                    <h2>A savoir sur <em>notre entreprise</em></h2>
+                    <p>description sur l'entreprise</p>
+                    <a href="#" class="filled-button">Découvrir</a>
                   </div>
                 </div>
               </div>
@@ -287,8 +287,8 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>What they say <em>about us</em></h2>
-              <span>testimonials from our greatest clients</span>
+              <h2>ce qu'on dit <em>apropos de nous</em></h2>
+              <span>Les avis de nos clients</span>
             </div>
           </div>
           <div class="col-md-12">
@@ -296,36 +296,36 @@ https://templatemo.com/tm-545-finance-business
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>George Walker</h4>
-                  <span>Chief Financial Analyst</span>
-                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
+                  <h4>Nom du client 1</h4>
+                  <span>fonction du client</span>
+                  <p>"commentaire de client."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>John Smith</h4>
-                  <span>Market Specialist</span>
-                  <p>"In eget leo ante. Sed nibh leo, laoreet accumsan euismod quis, scelerisque a nunc. Mauris accumsan, arcu id ornare malesuada, est nulla luctus nisi."</p>
+                  <h4>Nom du client 2</h4>
+                  <span>fonction du client</span>
+                  <p>"commentaire de client."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>David Wood</h4>
-                  <span>Chief Accountant</span>
-                  <p>"Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique."</p>
+                  <h4>Nom du client 3</h4>
+                  <span>fonction du client</span>
+                  <p>"commentaire de client."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>Andrew Boom</h4>
-                  <span>Marketing Head</span>
-                  <p>"Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis."</p>
+                  <h4>Nom du client 4</h4>
+                  <span>fonction du client</span>
+                  <p>"commentaire de client."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
@@ -336,7 +336,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="callback-form">
+   <!-- <div class="callback-form">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -380,7 +380,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
 
     <div class="partners">
       <div class="container">
@@ -390,22 +390,27 @@ https://templatemo.com/tm-545-finance-business
             
               <div class="partner-item">
                 <img src="assets/images/client-01.png" title="1" alt="1">
+				  partenaire 1
               </div>
               
               <div class="partner-item">
                 <img src="assets/images/client-01.png" title="2" alt="2">
+				  partenaire 2
               </div>
               
               <div class="partner-item">
                 <img src="assets/images/client-01.png" title="3" alt="3">
+				  partenaire 3
               </div>
               
               <div class="partner-item">
                 <img src="assets/images/client-01.png" title="4" alt="4">
+				  partenaire 4
               </div>
               
               <div class="partner-item">
                 <img src="assets/images/client-01.png" title="5" alt="5">
+				  partenaire 5
               </div>
               
             </div>
@@ -482,7 +487,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </footer>
     
-    <div class="sub-footer">
+    <!--<div class="sub-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -492,7 +497,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
