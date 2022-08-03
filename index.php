@@ -182,9 +182,9 @@ https://templatemo.com/tm-545-finance-business
             <div class="service-item">
               <img src="assets/images/service_01.jpg" alt="">
               <div class="down-content">
-                <h4>Digital Currency</h4>
+                <h4>service 1</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Read More</a>
+                <a href="" class="filled-button">Découvrir</a>
               </div>
             </div>
           </div>
@@ -192,9 +192,9 @@ https://templatemo.com/tm-545-finance-business
             <div class="service-item">
               <img src="assets/images/service_02.jpg" alt="">
               <div class="down-content">
-                <h4>Market Analysis</h4>
+                <h4>service 2</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Read More</a>
+                <a href="" class="filled-button">Découvrir</a>
               </div>
             </div>
           </div>
@@ -202,9 +202,9 @@ https://templatemo.com/tm-545-finance-business
             <div class="service-item">
               <img src="assets/images/service_03.jpg" alt="">
               <div class="down-content">
-                <h4>Historical Data</h4>
+                <h4>service 3</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Read More</a>
+                <a href="" class="filled-button">Découvrir</a>
               </div>
             </div>
           </div>
@@ -212,7 +212,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="fun-facts">
+    <!--<div class="fun-facts">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
@@ -221,7 +221,7 @@ https://templatemo.com/tm-545-finance-business
               <h2>Our solutions for your <em>business growth</em></h2>
               <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
               <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
-              <a href="" class="filled-button">Read More</a>
+              <a href="" class="filled-button">Découvrir</a>
             </div>
           </div>
           <div class="col-md-6 align-self-center">
@@ -254,7 +254,7 @@ https://templatemo.com/tm-545-finance-business
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
 
     <div class="more-info">
       <div class="container">
