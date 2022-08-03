@@ -42,7 +42,7 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <img src="assets/images/logo.png" width="70" height="70" style="margin-right: 10px">
+          <img src="assets/images/logo.png" width="60" height="60" style="margin-left: 15px">
           <!--<a class="navbar-brand" href="index.php"><h2>Green Planet Communication</h2></a>-->
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -95,7 +95,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
 		  <div class="col-md-12">
             <div class="section-heading">
-              <h2><em>La signature Green Planet Communication</em></h2>
+              <h2>La signature <em>Green Planet Communication</em></h2>
               <!--<span>testimonials from our greatest clients</span>-->
             </div>
           </div>
@@ -112,7 +112,7 @@ https://templatemo.com/tm-545-finance-business
                 </div>
                 <div class="col-md-6">
                   <div class="left-image">
-                    <img src="assets/images/about-image.jpg" alt="">
+                    <img src="assets/gifs/Team.gif" alt="">
                   </div>
                 </div>
               </div>
@@ -123,7 +123,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="row">
                 <div class="col-md-6">
                   <div class="left-image">
-                    <img src="assets/images/about-image.jpg" alt="">
+                    <img src="assets/gifs/excellence.gif" alt="">
                   </div>
                 </div>
                 <div class="col-md-6 align-self-center">
@@ -150,7 +150,7 @@ https://templatemo.com/tm-545-finance-business
                 </div>
                 <div class="col-md-6">
                   <div class="left-image">
-                    <img src="assets/images/about-image.jpg" alt="">
+                    <img src="assets/gifs/Confiance.gif" alt="">
                   </div>
                 </div>
               </div>
@@ -161,7 +161,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="row">
                 <div class="col-md-6">
                   <div class="left-image">
-                    <img src="assets/images/about-image.jpg" alt="">
+                    <img src="assets/gifs/Durability.gif" alt="">
                   </div>
                 </div>
                 <div class="col-md-6 align-self-center">
