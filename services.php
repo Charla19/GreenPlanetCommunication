@@ -64,8 +64,8 @@ https://templatemo.com/tm-545-finance-business
                 <a class="nav-link" href="contact.php">Contacter</a>
               </li>
 			  <li class="nav-item dropdown">
-				 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Français</a>
-				 <ul class="dropdown-menu">
+				 <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Français</a>
+				 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 					<li><a class="dropdown-item" href="#">Anglais</a></li>
 					<li><a class="dropdown-item" href="#">Espagnole</a></li>
 				 </ul>
