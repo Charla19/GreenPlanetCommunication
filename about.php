@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
   <head>
 
@@ -144,7 +144,7 @@ https://templatemo.com/tm-545-finance-business
                   <div class="right-content">
                     <span>Du latin classique fidere, ‘avoir confiance’</span>
                     <h2>Fiabilité <em></em></h2>
-                    <p>Concentrez-vous sur votre métier. Développez vos idées. Exploitez votre expertise. Nous nous occupons de les mettre en valeur, en toute confiance.</p>
+                    <p>Concentrez-vous sur votre métier. Développez vos idées. Exploitez votre expertise. Nous nous occupons de les mettre en valeur, en toute confiance. Nous remplissons les missions que vous nous confiez dans le respect de vos attentes en toute confiance.</p>
                     <!--<a href="" class="filled-button">Read More</a>-->
                   </div>
                 </div>
@@ -176,6 +176,14 @@ https://templatemo.com/tm-545-finance-business
             </div>
           </div>
         </div>
+		<!--<div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Savoir plus sur<em>notre vision</em></h2>
+              <span>Propulsez durablement vos idées.</span>
+            </div>
+          </div>
+		</div>-->
       </div>
     </div>
 
@@ -184,17 +192,17 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our team <em>members</em></h2>
-              <span>Suspendisse a ante in neque iaculis lacinia</span>
+              <h2>Les valeurs <em>que l'on soutienne</em></h2>
+              <span>Green Planet Communication</span>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-item">
               <img src="assets/images/team_01.jpg" alt="">
               <div class="down-content">
-                <h4>William Smith</h4>
-                <span>Co-Founder</span>
-                <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
+                <h4>Valeur 1</h4>
+                <span>Synonyme valeur 1</span>
+                <p>Dans votre métier, vous êtes un expert. Avec votre équipe, vous avez des idées pertinentes et innovantes. Vos clients recherchent vos compétences, celles qui vous distinguent de vos concurrents. </p>
               </div>
             </div>
           </div>
@@ -202,9 +210,9 @@ https://templatemo.com/tm-545-finance-business
             <div class="team-item">
               <img src="assets/images/team_02.jpg" alt="">
               <div class="down-content">
-                <h4>Mary Houston</h4>
-                <span>Chief Marketing Officer</span>
-                <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
+                <h4>Valeur 2</h4>
+                <span>Synonyme valeur 2</span>
+                <p>Que vous le vouliez ou non, la communication est au coeur de votre entreprise. Avec vos clients bien sûr, et avec vos collaborateurs.</p>
               </div>
             </div>
           </div>
@@ -212,9 +220,9 @@ https://templatemo.com/tm-545-finance-business
             <div class="team-item">
               <img src="assets/images/team_03.jpg" alt="">
               <div class="down-content">
-                <h4>Paul Walker</h4>
-                <span>Financial Analyst</span>
-                <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
+                <h4>Valeur 3</h4>
+                <span>Synonyme valeur 3</span>
+                <p>Bien communiquer, c’est s’assurer que le bon message parviennent aux bonnes personnes. C’est avant tout une question d’écoute et d’adaptation. Et cela, c’est notre métier. </p>
               </div>
             </div>
           </div>
@@ -227,37 +235,37 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-6">
             <div class="left-content">
-              <span>Lorem ipsum dolor sit amet</span>
-              <h2>Our solutions for your <em>business growth</em></h2>
-              <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
-              <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
-              <a href="" class="filled-button">Read More</a>
+              <span>Transformer la communication de votre entreprise en vecteur de croissance durable</span>
+              <h2><em>Projection dans l'avenir </em></h2>
+              <p>En trois ans, s’imposer comme un acteur de référence proposant un panel complet de services de communication aux entreprises. 
+              <br>Atteindre un taux moyen de satisfaction des clients de 95% sur les différents KPI. 
+			  <br><br>Voici les chiffres que l'on espère atteindre dans 10 ans -></p>
             </div>
           </div>
           <div class="col-md-6 align-self-center">
             <div class="row">
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">945</div>
-                  <div class="count-title">Work Hours</div>
+                  <div class="count-digit">95</div>
+                  <div class="count-title">taux satisfaction client</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">1280</div>
-                  <div class="count-title">Great Reviews</div>
+                  <div class="count-digit">250</div>
+                  <div class="count-title">Excellentes critique</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">578</div>
-                  <div class="count-title">Projects Done</div>
+                  <div class="count-digit">150</div>
+                  <div class="count-title">Projets accomplis et réussis</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">26</div>
-                  <div class="count-title">Awards Won</div>
+                  <div class="count-digit">25</div>
+                  <div class="count-title">Récompenses remportées</div>
                 </div>
               </div>
             </div>
@@ -271,8 +279,8 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>What they say <em>about us</em></h2>
-              <span>testimonials from our greatest clients</span>
+              <h2>Ce qu'on dit <em>à propos de nous</em></h2>
+              <span>Les avis de nos plus grands clients</span>
             </div>
           </div>
           <div class="col-md-12">
@@ -280,8 +288,8 @@ https://templatemo.com/tm-545-finance-business
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>George Walker</h4>
-                  <span>Chief Financial Analyst</span>
+                  <h4>Client 1</h4>
+                  <span>Fonction du client 1</span>
                   <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
@@ -289,8 +297,8 @@ https://templatemo.com/tm-545-finance-business
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>John Smith</h4>
-                  <span>Market Specialist</span>
+                  <h4>Client 2</h4>
+                  <span>Fonction du client 2</span>
                   <p>"In eget leo ante. Sed nibh leo, laoreet accumsan euismod quis, scelerisque a nunc. Mauris accumsan, arcu id ornare malesuada, est nulla luctus nisi."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
@@ -325,8 +333,8 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Finance Business</h4>
-            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+            <h4>Nos réseaux sociaux</h4>
+            <p>En cliquant sur ces icones, vous allez être redirigé directement vers nos réseaux sociaux.</p>
             <ul class="social-icons">
               <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -335,48 +343,47 @@ https://templatemo.com/tm-545-finance-business
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Useful Links</h4>
+            <h4>Liens utiles</h4>
             <ul class="menu-list">
-              <li><a href="#">Vivamus ut tellus mi</a></li>
-              <li><a href="#">Nulla nec cursus elit</a></li>
-              <li><a href="#">Vulputate sed nec</a></li>
-              <li><a href="#">Cursus augue hasellus</a></li>
-              <li><a href="#">Lacinia ac sapien</a></li>
+              <li><a href="#top">Retour en haut de la page</a></li>
+              <li><a href="#service">Nos services</a></li>
+              <li><a href="#about">Découvrir notre entreprise</a></li>
+              <li><a href="#pov">Les avis sur nous</a></li>
+              <li><a href="#partners">Nos partenaires</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Additional Pages</h4>
+            <h4>Pages supplémentaires</h4>
             <ul class="menu-list">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How We Work</a></li>
-              <li><a href="#">Quick Support</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="about.php">A propos</a></li>
+              <li><a href="contact.php">Nous contacter</a></li>
+              <li><a href="#">Page d'aide</a></li>
+              <li><a href="#">Politique de confidentialité</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
-            <h4>Contact Us</h4>
+            <h4>Nous contacter</h4>
             <div class="contact-form">
               <form id="contact footer-contact" action="" method="post">
                 <div class="row">
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
+                      <input name="name" type="text" class="form-control" id="name" placeholder="Nom complet" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="Adresse mail" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Votre message" required></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button">Send Message</button>
+                      <button type="submit" id="form-submit" class="filled-button">Envoyer</button>
                     </fieldset>
                   </div>
                 </div>
@@ -391,9 +398,7 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Copyright &copy; 2020 Financial Business Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            <p>Copyright &copy; 2022 Green Planet Communication Co., Ltd.</p>
           </div>
         </div>
       </div>

@@ -61,10 +61,10 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>-->
 
-    <header class="">
+    <header class="" id="top">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-		  <img src="assets/images/logo.png" width="40" height="40" style="margin-right: 10px; margin-left: 10px">
+		  <img src="assets/images/logo.png" width="50" height="50" style="margin-right: 10px; margin-left: 10px">
           <a class="navbar-brand" href="index.php"><div class="d-none d-lg-block"><h2>Green Planet Communication</h2></div></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -169,7 +169,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>-->
 
-    <div class="services">
+    <div class="services" id="service">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -256,7 +256,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>-->
 
-    <div class="more-info">
+    <div class="more-info" id="about">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -270,9 +270,9 @@ https://templatemo.com/tm-545-finance-business
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
                     <span>Qui sommes-nous?</span>
-                    <h2>A savoir sur <em>notre entreprise</em></h2>
-                    <p>description sur l'entreprise</p>
-                    <a href="#" class="filled-button">Découvrir</a>
+                    <h2>A la découverte de <em>notre entreprise</em></h2>
+                    <p>Notre mission est de transformer la communication de votre entreprise en vecteur de croissance durable.</p>
+                    <a href="about.php" class="filled-button">Découvrir</a>
                   </div>
                 </div>
               </div>
@@ -282,13 +282,13 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="testimonials">
+    <div class="testimonials" id="pov">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>ce qu'on dit <em>apropos de nous</em></h2>
-              <span>Les avis de nos clients</span>
+              <h2>Ce qu'on dit <em>à propos de nous</em></h2>
+              <span>Les avis de nos plus grands clients</span>
             </div>
           </div>
           <div class="col-md-12">
@@ -296,18 +296,18 @@ https://templatemo.com/tm-545-finance-business
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>Nom du client 1</h4>
-                  <span>fonction du client</span>
-                  <p>"commentaire de client."</p>
+                  <h4>Client 1</h4>
+                  <span>Fonction du client 1</span>
+                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>Nom du client 2</h4>
-                  <span>fonction du client</span>
-                  <p>"commentaire de client."</p>
+                  <h4>Client 2</h4>
+                  <span>Fonction du client 2</span>
+                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
@@ -316,7 +316,7 @@ https://templatemo.com/tm-545-finance-business
                 <div class="inner-content">
                   <h4>Nom du client 3</h4>
                   <span>fonction du client</span>
-                  <p>"commentaire de client."</p>
+                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
@@ -382,7 +382,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>-->
 
-    <div class="partners">
+    <div class="partners" id="partners">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -425,8 +425,8 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Finance Business</h4>
-            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+            <h4>Nos réseaux sociaux</h4>
+            <p>En cliquant sur ces icones, vous allez être redirigé directement vers nos réseaux sociaux.</p>
             <ul class="social-icons">
               <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -435,48 +435,47 @@ https://templatemo.com/tm-545-finance-business
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Useful Links</h4>
+            <h4>Liens utiles</h4>
             <ul class="menu-list">
-              <li><a href="#">Vivamus ut tellus mi</a></li>
-              <li><a href="#">Nulla nec cursus elit</a></li>
-              <li><a href="#">Vulputate sed nec</a></li>
-              <li><a href="#">Cursus augue hasellus</a></li>
-              <li><a href="#">Lacinia ac sapien</a></li>
+              <li><a href="#top">Retour en haut de la page</a></li>
+              <li><a href="#service">Nos services</a></li>
+              <li><a href="#about">Découvrir notre entreprise</a></li>
+              <li><a href="#pov">Les avis sur nous</a></li>
+              <li><a href="#partners">Nos partenaires</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Additional Pages</h4>
+            <h4>Pages supplémentaires</h4>
             <ul class="menu-list">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How We Work</a></li>
-              <li><a href="#">Quick Support</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="about.php">A propos</a></li>
+              <li><a href="contact.php">Nous contacter</a></li>
+              <li><a href="#">Page d'aide</a></li>
+              <li><a href="#">Politique de confidentialité</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
-            <h4>Contact Us</h4>
+            <h4>Nous contacter</h4>
             <div class="contact-form">
               <form id="contact footer-contact" action="" method="post">
                 <div class="row">
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="Nom complet" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="Adresse mail" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required></textarea>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Votre message" required></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button">Send Message</button>
+                      <button type="submit" id="form-submit" class="filled-button">Envoyer</button>
                     </fieldset>
                   </div>
                 </div>
@@ -487,17 +486,15 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </footer>
     
-    <!--<div class="sub-footer">
+    <div class="sub-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Copyright &copy; 2020 Financial Business Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            <p>Copyright &copy; 2022 Green Planet Communication Co., Ltd.</p>
           </div>
         </div>
       </div>
-    </div>-->
+    </div>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
