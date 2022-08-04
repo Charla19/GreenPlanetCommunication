@@ -77,7 +77,7 @@ https://templatemo.com/tm-545-finance-business
     </header>
 
     <!-- Page Content -->
-    <div class="page-heading header-text">
+    <div class="page-heading header-text"  id="Top">
       <div class="container">
         <div class="row">
 		  <div class="col-md-12">
@@ -91,7 +91,7 @@ https://templatemo.com/tm-545-finance-business
     </div>
 
     <div class="more-info about-info">
-      <div class="container">
+      <div class="container" id="signature">
         <div class="row">
 		  <div class="col-md-12">
             <div class="section-heading">
@@ -187,7 +187,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="team">
+    <div class="team" id="valeur">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -230,7 +230,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="fun-facts">
+    <div class="fun-facts" id="vision">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
@@ -274,7 +274,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="testimonials">
+    <div class="testimonials" id="pov">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -345,11 +345,11 @@ https://templatemo.com/tm-545-finance-business
           <div class="col-md-3 footer-item">
             <h4>Liens utiles</h4>
             <ul class="menu-list">
-              <li><a href="#top">Retour en haut de la page</a></li>
-              <li><a href="#service">Nos services</a></li>
-              <li><a href="#about">Découvrir notre entreprise</a></li>
+              <li><a href="#Top">Retour en haut de la page</a></li>
+              <li><a href="#signature">signature</a></li>
+              <li><a href="#valeur">Nos valeurs</a></li>
+              <li><a href="#vision">Notre vision</a></li>
               <li><a href="#pov">Les avis sur nous</a></li>
-              <li><a href="#partners">Nos partenaires</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">

@@ -61,7 +61,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>-->
 
-    <header class="" id="top">
+    <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
 		  <img src="assets/images/logo.png" width="50" height="50" style="margin-right: 10px; margin-left: 10px">
@@ -100,7 +100,7 @@ https://templatemo.com/tm-545-finance-business
 
     <!-- Page Content -->
     <!-- Banner Starts Here -->
-    <div class="main-banner header-text" id="top">
+    <div class="main-banner header-text" id="top"  id="top">
         <div class="Modern-Slider">
           <!-- Item -->
           <div class="item item-1">

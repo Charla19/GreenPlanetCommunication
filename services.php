@@ -39,7 +39,7 @@ https://templatemo.com/tm-545-finance-business
     </div>  
     <!-- ***** Preloader End ***** -->
     
-    <header class="">
+    <header class="" id="top">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
           <img src="assets/images/logo.png" width="60" height="60" style="margin-left: 15px">
@@ -77,7 +77,7 @@ https://templatemo.com/tm-545-finance-business
     </header>
 
     <!-- Page Content -->
-    <div class="page-heading header-text">
+    <div class="page-heading header-text" id="top">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -210,10 +210,10 @@ https://templatemo.com/tm-545-finance-business
             <h4>Liens utiles</h4>
             <ul class="menu-list">
               <li><a href="#top">Retour en haut de la page</a></li>
-              <li><a href="#service">Nos services</a></li>
+              <!--<li><a href="#service">Nos services</a></li>
               <li><a href="#about">Découvrir notre entreprise</a></li>
               <li><a href="#pov">Les avis sur nous</a></li>
-              <li><a href="#partners">Nos partenaires</a></li>
+              <li><a href="#partners">Nos partenaires</a></li>-->
             </ul>
           </div>
           <div class="col-md-3 footer-item">
