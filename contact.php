@@ -255,16 +255,6 @@ https://templatemo.com/tm-545-finance-business
         </div>
       </div>
     </footer>
-    
-    <div class="sub-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <p>Copyright &copy; 2022 Green Planet Communication Co., Ltd.</p>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
