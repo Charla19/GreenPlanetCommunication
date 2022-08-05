@@ -9,7 +9,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Finance Business - About Page</title>
+    <title>GreenPC| About Page</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -177,14 +177,6 @@ https://templatemo.com/tm-545-finance-business
             </div>
           </div>
         </div>
-		<!--<div class="row">
-          <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Savoir plus sur<em>notre vision</em></h2>
-              <span>Propulsez durablement vos idées.</span>
-            </div>
-          </div>
-		</div>-->
       </div>
     </div>
 
@@ -248,7 +240,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-digit">95</div>
-                  <div class="count-title">taux satisfaction client</div>
+                  <div class="count-title">Taux satisfaction client</div>
                 </div>
               </div>
               <div class="col-md-6">
@@ -301,24 +293,6 @@ https://templatemo.com/tm-545-finance-business
                   <h4>Client 2</h4>
                   <span>Fonction du client 2</span>
                   <p>"In eget leo ante. Sed nibh leo, laoreet accumsan euismod quis, scelerisque a nunc. Mauris accumsan, arcu id ornare malesuada, est nulla luctus nisi."</p>
-                </div>
-                <img src="http://placehold.it/60x60" alt="">
-              </div>
-              
-              <div class="testimonial-item">
-                <div class="inner-content">
-                  <h4>David Wood</h4>
-                  <span>Chief Accountant</span>
-                  <p>"Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique."</p>
-                </div>
-                <img src="http://placehold.it/60x60" alt="">
-              </div>
-              
-              <div class="testimonial-item">
-                <div class="inner-content">
-                  <h4>Andrew Boom</h4>
-                  <span>Marketing Head</span>
-                  <p>"Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis."</p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
