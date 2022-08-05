@@ -39,7 +39,7 @@ https://templatemo.com/tm-545-finance-business
     </div>  
     <!-- ***** Preloader End ***** -->
     
-    <header class="" id="top">
+    <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
           <img src="assets/images/logo.png" width="60" height="60" style="margin-left: 15px">
