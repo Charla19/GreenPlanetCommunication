@@ -97,10 +97,10 @@ $es = array(
 	"value1-span" => "En tu profesión, eres un experto. Con tu equipo, tienes ideas relevantes e innovadoras. Tus clientes buscan tus habilidades, esas que te diferencian de tus competidores.",
 	"value2" => "Valeur 2",
 	"value2-span" => "Sinónimo valor 2",
-	"value2-p" => "Una buena comunicación significa asegurarse de que el mensaje correcto llegue a las personas adecuadas. Es sobre todo una cuestión de escuchar y adaptarse. Y ese es nuestro trabajo.",
+	"value2-p" => "Te guste o no, la comunicación es el corazón de tu negocio. Con sus clientes, por supuesto, y con sus empleados.",
 	"value3" => "Valor 3",
 	"value3-span" => "Sinónimo valor 3",
-	"value3-p" => "Bien communiquer, c’est s’assurer que le bon message parviennent aux bonnes personnes. C’est avant tout une question d’écoute et d’adaptation. Et cela, c’est notre métier.",
+	"value3-p" => "Una buena comunicación significa asegurarse de que el mensaje correcto llegue a las personas adecuadas. Es sobre todo una cuestión de escuchar y adaptarse. Y ese es nuestro trabajo.",
 	//Visions
 	"vision-span" => "Convierte la comunicación de tu empresa en un vector de crecimiento sostenible",
 	"vision-h2-em" => "Proyección hacia el futuro",
