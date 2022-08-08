@@ -108,7 +108,7 @@ $fr = array(
 	"vision-p-br" => "Atteindre un taux moyen de satisfaction des clients de 95% sur les différents KPI. ",
 	"vision-p-br-br" => "Voici les chiffres que l'on espère atteindre dans 10 ans ->",
 	"vision-count-title1" => "Taux satisfaction client",
-	"vision-count-title" => "Excellentes critique",
+	"vision-count-title" => "Excellentes critiques",
 	"vision-count-title" => "Projets accomplis et réussis",
 	"vision-count-title" => "Récompenses remportées",
 	//testimonials (already declared)	
