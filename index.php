@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="<?php echo $lang["html-lang"]; ?>">
 
+<?php include "langues/fr.php"; ?>
   <head>
 
     <meta charset="utf-8">
@@ -39,11 +40,31 @@ https://templatemo.com/tm-545-finance-business
     </div>  
     <!-- ***** Preloader End ***** -->
 
+    <div class="sub-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-xs-12">
+            <ul class="left-info">
+              <li><a href="#"><img src="assets/images/logo.jpg" width="220px" height="50px"></a></li>
+              <li><a href="#"><i class="fa fa-phone"></i>0033 6 12 34 56 78</a></li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <ul class="right-icons">
+              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="#"><i class="fa fa-behance"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Header starts here -->
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-		  <img src="assets/images/logo.png" width="50" height="50" style="margin-right: 10px; margin-left: 10px">
           <a class="navbar-brand" href="index.php"><div class="d-none d-lg-block"><h2>Green Planet Communication</h2></div></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -51,27 +72,27 @@ https://templatemo.com/tm-545-finance-business
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item active">
-                <a class="nav-link" href="#top">Accueil
+                <a class="nav-link" href="#top"><?php echo $lang["nav-home"]; ?>
                   <span class="sr-only">(current)</span>
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.php">A propos</a>
+                <a class="nav-link" href="about.php"><?php echo $lang["nav-about"]; ?></a>
               </li>  
               <li class="nav-item">
-                <a class="nav-link" href="services.php">Nos services</a>
+                <a class="nav-link" href="services.php"><?php echo $lang["nav-service"]; ?></a>
               </li>                          
               <li class="nav-item">
-                <a class="nav-link" href="contact.php">Contacter</a>
+                <a class="nav-link" href="contact.php"><?php echo $lang["nav-contact"]; ?></a>
               </li>
-			  <li class="nav-item dropdown">
-				 <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Langues</a>
-				 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-					<li><a class="dropdown-item" href="#">Français</a></li>
-					<li><a class="dropdown-item" href="#">Anglais</a></li>
-					<li><a class="dropdown-item" href="#">Espagnole</a></li>
-				 </ul>
-			  </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><?php echo $lang["lang-btn"]; ?></a>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#"><?php echo $lang["lang-fr"]; ?></a></li>
+                  <li><a class="dropdown-item" href="#"><?php echo $lang["lang-ang"]; ?></a></li>
+                  <li><a class="dropdown-item" href="#"><?php echo $lang["lang-es"]; ?></a></li>
+                </ul>
+              </li>
             </ul>
           </div>
         </div>
@@ -86,11 +107,11 @@ https://templatemo.com/tm-545-finance-business
           <div class="item item-1">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>Harmonie</h6>
-                  <h4>Du grec ancien,<br> "harmonia"</h4>
-                  <p>Green Planet Communication prend le temps d’écouter votre mode de fonctionnement et se met au diapason de vos valeurs. Nous portons ensuite votre voix au sein de votre entreprise et au coeur de votre marché. </p>
+                  <h6><?php echo $lang["banner1-h6"]; ?></h6>
+                  <h4><?php echo $lang["banner1-h4-1"]; ?><br><?php echo $lang["banner1-h4-2"]; ?></h4>
+                  <p><?php echo $lang["banner1-p"]; ?></p>
 				  <!--<a href="one-page.php">One-page version</a> is available as of 2021 February.</p>-->
-                  <a href="contact.php" class="filled-button">Nous contacter</a>
+                  <a href="contact.php" class="filled-button"><?php echo $lang["banner1-btn"]; ?></a>
                 </div>
             </div>
           </div>
@@ -99,10 +120,10 @@ https://templatemo.com/tm-545-finance-business
           <div class="item item-2">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>Excellence</h6>
-                  <h4>Du latin excellentia<br> ‘surpassement’</h4>
-                  <p>Nous analysons votre positionnement et votre avantage concurrentiel pour déterminer la stratégie gagnante. Nous la traduisons dans un plan opérationnel efficace et en assurons une diffusion pertinente.</p>
-                  <a href="services.php" class="filled-button">Nos services</a>
+                  <h6><?php echo $lang["banner2-h6"]; ?></h6>
+                  <h4><?php echo $lang["banner2-h4-1"]; ?><br><?php echo $lang["banner2-h4-2"]; ?></h4>
+                  <p><?php echo $lang["banner2-p"]; ?></p>
+                  <a href="services.php" class="filled-button"><?php echo $lang["banner2-btn"]; ?></a>
                 </div>
             </div>
           </div>
@@ -135,12 +156,26 @@ https://templatemo.com/tm-545-finance-business
     </div>
     <!-- Banner Ends Here -->
 
+    <div class="request-form">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <h4>Demander un rappel maintenant?</h4>
+            <span>Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</span>
+          </div>
+          <div class="col-md-4">
+            <a href="contact.html" class="border-button">Nous contacter</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="services" id="service">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2><img src="assets/images/logo.png" width="80" height="81"> Green Planet <em>Communication</em></h2>
+              <h2><img src="assets/images/logo.jpg" width="500" height="100"></h2>
               <span>Propulsez durablement vos idées.</span>
             </div>
           </div>
@@ -171,6 +206,50 @@ https://templatemo.com/tm-545-finance-business
                 <h4>service 3</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
                 <a href="" class="filled-button">Découvrir</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fun-facts">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="left-content">
+              <span>Lorem ipsum dolor sit amet</span>
+              <h2>Our solutions for your <em>business growth</em></h2>
+              <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
+              <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
+              <a href="" class="filled-button">Read More</a>
+            </div>
+          </div>
+          <div class="col-md-6 align-self-center">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <div class="count-digit">945</div>
+                  <div class="count-title">Work Hours</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <div class="count-digit">1280</div>
+                  <div class="count-title">Great Reviews</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <div class="count-digit">578</div>
+                  <div class="count-title">Projects Done</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <div class="count-digit">26</div>
+                  <div class="count-title">Awards Won</div>
+                </div>
               </div>
             </div>
           </div>

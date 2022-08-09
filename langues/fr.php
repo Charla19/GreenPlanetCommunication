@@ -1,6 +1,6 @@
 <?php
 
-$fr = array(
+$lang = array(
 	//French language of home page index.php
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 	// html file
@@ -8,8 +8,9 @@ $fr = array(
 	//header (same for all pages)
 	"nav-home" => "Accueil",
 	"nav-about" => "A propos",
-	"nav-service" => "Nos services",
-	"nav-contact" => "Nous contacter",
+	"nav-service" => "Services",
+	"nav-contact" => "Contacter",
+	"lang-btn" => "Langues",
 	"lang-fr" => "Français",
 	"lang-ang" => "Anglais",
 	"lang-es" => "Espagnole",
