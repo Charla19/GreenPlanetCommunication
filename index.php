@@ -45,7 +45,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <ul class="left-info">
-              <li><a href="#"><img src="assets/images/logo.jpg" width="220px" height="50px"></a></li>
+              <li><a href="#"><img src="assets/images/logo.png" width="220px" height="50px"></a></li>
               <li><a href="#"><i class="fa fa-phone"></i>0033 6 12 34 56 78</a></li>
             </ul>
           </div>
@@ -175,7 +175,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2><img src="assets/images/logo.jpg" width="500" height="100"></h2>
+              <h2><img src="assets/images/logo.png" width="500" height="100"></h2>
               <span>Propulsez durablement vos idées.</span>
             </div>
           </div>
