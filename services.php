@@ -101,9 +101,9 @@ https://templatemo.com/tm-545-finance-business
     <div class="page-heading header-text" id="top">
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
-            <h1>Our Services</h1>
-            <span>We are over 20 years of experience</span>
+        <div class="col-md-12">
+            <h1>Nos services</h1>
+            <span>Nous avons 20 ans d'expériences</span>
           </div>
         </div>
       </div>

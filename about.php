@@ -104,8 +104,8 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
 		  <div class="col-md-12">
           <div class="col-md-12">
-            <h1>About Us</h1>
-            <span>We have over 20 years of experience</span>
+            <h1>A propos de nous</h1>
+            <span>Nous avons 20 ans d'expériences</span>
           </div>
           </div>
         </div>
@@ -244,42 +244,42 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="fun-facts" id="vision">
+    <div class="fun-facts">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="left-content">
-              <span>Transformer la communication de votre entreprise en vecteur de croissance durable</span>
-              <h2><em>Projection dans l'avenir </em></h2>
-              <p>En trois ans, s’imposer comme un acteur de référence proposant un panel complet de services de communication aux entreprises. 
-              <br>Atteindre un taux moyen de satisfaction des clients de 95% sur les différents KPI. 
-			  <br><br>Voici les chiffres que l'on espère atteindre dans 10 ans -></p>
+              <span>Propulsez durablement vos idées.</span>
+              <h2>Nos solutions pour la croissance <em>de votre entreprise</em></h2>
+              <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
+              <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
+              <a href="" class="filled-button">Read More</a>
             </div>
           </div>
           <div class="col-md-6 align-self-center">
             <div class="row">
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">95</div>
-                  <div class="count-title">Taux satisfaction client</div>
+                  <div class="count-digit">945</div>
+                  <div class="count-title">Work Hours</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">250</div>
-                  <div class="count-title">Excellentes critique</div>
+                  <div class="count-digit">1280</div>
+                  <div class="count-title">Great Reviews</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">150</div>
-                  <div class="count-title">Projets accomplis et réussis</div>
+                  <div class="count-digit">578</div>
+                  <div class="count-title">Projects Done</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">25</div>
-                  <div class="count-title">Récompenses remportées</div>
+                  <div class="count-digit">26</div>
+                  <div class="count-title">Awards Won</div>
                 </div>
               </div>
             </div>

@@ -103,8 +103,8 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1>Contact Us</h1>
-            <span>feel free to send us a message now!</span>
+            <h1>Nous contacter</h1>
+            <span>Nous avons 20 ans d'expériences</span>
           </div>
         </div>
       </div>

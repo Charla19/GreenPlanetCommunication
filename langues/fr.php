@@ -35,7 +35,7 @@ $lang = array(
 	"banner4-h4-2" => " aux effets du temps",
 	"banner4-p" => "Nous aimons frapper un grand coup pour propulser votre message au premier plan. Mais ce que nous préférons par dessus tout, c’est l’ancrer durablement dans les esprits.",
 	"banner4-btn" => "Apprendre plus",	
-	"slogan" => "Propulsez durablement vos idées.",
+	"slogan" => "Propulsez durablement vos idées",
 	//about
 	"about-span" => "Qui sommes-nous?",
 	"about-h2" => "A la découverte de ",
