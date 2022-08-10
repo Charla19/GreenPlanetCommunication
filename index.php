@@ -20,20 +20,6 @@
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-finance-business.css">
     <link rel="stylesheet" href="assets/css/owl.css">
-
-    <script>
-      $(window).scroll(function() {
-            var scroll = $(window).scrollTop();
-            var box = $('.accueil').height();
-            var header = $('header').height();
-  
-            if (scroll >= box - (header*7)) {
-              $("header").addClass("background-header");
-            } else {
-              $("header").removeClass("background-header");
-            }
-          });
-    </script>
 <!--
 
 Finance Business TemplateMo
@@ -147,10 +133,10 @@ https://templatemo.com/tm-545-finance-business
           <div class="item item-3">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>Fiabilité</h6>
-                  <h4>Du latin fidere,<br> ‘avoir confiance’</h4>
-                  <p>Concentrez-vous sur votre métier. Développez vos idées. Exploitez votre expertise. Nous nous occupons de les mettre en valeur, en toute confiance. </p>
-                  <a href="about.php" class="filled-button">Apprendre plus</a>
+                  <h6><?php echo $lang["banner3-h6"]; ?></h6>
+                  <h4><?php echo $lang["banner3-h4-1"]; ?><br><?php echo $lang["banner3-h4-2"]; ?></h4>
+                  <p><?php echo $lang["banner3-p"]; ?></p>
+                  <a href="about.php" class="filled-button"><?php echo $lang["banner3-btn"]; ?></a>
                 </div>
             </div>
           </div>
@@ -159,10 +145,10 @@ https://templatemo.com/tm-545-finance-business
           <div class="item item-3">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>Durabilité</h6>
-                  <h4>Resister<br> aux effets du temps</h4>
-                  <p>Nous aimons frapper un grand coup pour propulser votre message au premier plan. Mais ce que nous préférons par dessus tout, c’est l’ancrer durablement dans les esprits.</p>
-                  <a href="about.php" class="filled-button">Apprendre plus</a>
+                  <h6><?php echo $lang["banner4-h6"]; ?></h6>
+                  <h4><?php echo $lang["banner4-h4-1"]; ?><br><?php echo $lang["banner4-h4-2"]; ?></h4>
+                  <p><?php echo $lang["banner4-p"]; ?></p>
+                  <a href="about.php" class="filled-button"><?php echo $lang["banner4-btn"]; ?></a>
                 </div>
             </div>
           </div>
@@ -175,11 +161,11 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h4>Demander un rappel maintenant?</h4>
-            <span>Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</span>
+            <h4><?php echo $lang["request-h4"]; ?></h4>
+            <span><?php echo $lang["request-span"]; ?></span>
           </div>
           <div class="col-md-4">
-            <a href="contact.php" class="border-button">Nous contacter</a>
+            <a href="contact.php" class="border-button">  <h4><?php echo $lang["request-a"]; ?></a>
           </div>
         </div>
       </div>
@@ -191,16 +177,16 @@ https://templatemo.com/tm-545-finance-business
           <div class="col-md-12">
             <div class="section-heading">
               <h2><img src="assets/images/logo.png" width="450" height="80"></h2>
-              <span>Propulsez durablement vos idées</span>
+              <span><?php echo $lang["slogan"]; ?></span>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service-item">
               <img src="assets/images/service_01.jpg" alt="">
               <div class="down-content">
-                <h4>service 1</h4>
-                <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="services.php#services" class="filled-button">Découvrir</a>
+                <h4><?php echo $lang["service1-h4"]; ?></h4>
+                <p><?php echo $lang["service1-p"]; ?></p>
+                <a href="services.php#services" class="filled-button"><?php echo $lang["service-btn"]; ?></a>
               </div>
             </div>
           </div>
@@ -208,9 +194,9 @@ https://templatemo.com/tm-545-finance-business
             <div class="service-item">
               <img src="assets/images/service_02.jpg" alt="">
               <div class="down-content">
-                <h4>service 2</h4>
-                <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="services.php#services" class="filled-button">Découvrir</a>
+                <h4><?php echo $lang["service2-h4"]; ?></h4>
+                <p><?php echo $lang["service2-p"]; ?></p>
+                <a href="services.php#services" class="filled-button"><?php echo $lang["service-btn"]; ?></a>
               </div>
             </div>
           </div>
@@ -218,9 +204,9 @@ https://templatemo.com/tm-545-finance-business
             <div class="service-item">
               <img src="assets/images/service_03.jpg" alt="">
               <div class="down-content">
-                <h4>service 3</h4>
-                <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="services.php#services" class="filled-button">Découvrir</a>
+                <h4><?php echo $lang["service3-h4"]; ?></h4>
+                <p><?php echo $lang["service3-p"]; ?></p>
+                <a href="services.php#services" class="filled-button"><?php echo $lang["service-btn"]; ?></a>
               </div>
             </div>
           </div>
@@ -233,11 +219,11 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-6">
             <div class="left-content">
-              <span>Propulsez durablement vos idées</span>
-              <h2>Nos solutions pour la croissance <em>de votre entreprise</em></h2>
-              <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
-              <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
-              <a href="" class="filled-button">En savoir plus</a>
+              <span><?php echo $lang["fun-fact-span"]; ?></span>
+              <h2><?php echo $lang["fun-fact-h2"]; ?><em><?php echo $lang["fun-fact-em"]; ?></em></h2>
+              <p><?php echo $lang["fun-fact-p"]; ?>
+              <br><br><?php echo $lang["fun-fact-br"]; ?></p>
+              <a href="" class="filled-button"><?php echo $lang["fun-fact-btn"]; ?></a>
             </div>
           </div>
           <div class="col-md-6 align-self-center">
@@ -245,25 +231,25 @@ https://templatemo.com/tm-545-finance-business
               <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-digit">945</div>
-                  <div class="count-title">Work Hours</div>
+                  <div class="count-title"><?php echo $lang["count-title1"]; ?></div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-digit">1280</div>
-                  <div class="count-title">Great Reviews</div>
+                  <div class="count-title"><?php echo $lang["count-title2"]; ?></div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-digit">578</div>
-                  <div class="count-title">Projects Done</div>
+                  <div class="count-title"><?php echo $lang["count-title3"]; ?></div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-digit">26</div>
-                  <div class="count-title">Awards Won</div>
+                  <div class="count-title"><?php echo $lang["count-title4"]; ?></div>
                 </div>
               </div>
             </div>
@@ -285,10 +271,10 @@ https://templatemo.com/tm-545-finance-business
                 </div>
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
-                    <span>Qui sommes-nous?</span>
-                    <h2>A la découverte de <em>notre entreprise</em></h2>
-                    <p>Notre mission est de transformer la communication de votre entreprise en vecteur de croissance durable.</p>
-                    <a href="about.php" class="filled-button">Découvrir</a>
+                    <span><?php echo $lang['about-span']; ?></span>
+                    <h2><?php echo $lang['about-h2']; ?><em><?php echo $lang['about-h2-em']; ?><?php echo $lang['']; ?></em></h2>
+                    <p><?php echo $lang['about-p']; ?></p>
+                    <a href="about.php" class="filled-button"><?php echo $lang['about-btn']; ?></a>
                   </div>
                 </div>
               </div>
@@ -304,7 +290,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Projection et <em> feuille de route</em></h2>
+              <h2><?php echo $lang['vision-h2']; ?><em><?php echo $lang['vision-h2-em']; ?></em></h2>
             </div>
           </div>
         </div>
@@ -314,10 +300,10 @@ https://templatemo.com/tm-545-finance-business
               <div class="row">
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
-                    <span>Propulsez durablement vos idées</span>
-                    <h2><em>Nos visions</em></h2>
-                    <p>En trois ans, s’imposer comme un acteur de référence proposant un panel complet de services de communication aux entreprises. 
-                    <br>Atteindre un taux moyen de satisfaction des clients de 95% sur les différents KPI.</p>
+                    <span><?php echo $lang['vision-span']; ?></span>
+                    <h2><em><?php echo $lang['vision-h2-em1']; ?></em></h2>
+                    <p><?php echo $lang['vision-p']; ?> 
+                    <br><?php echo $lang['vision-p-br']; ?></p>
                     <!-- <a href="" class="filled-button"></a> -->
                   </div>
                 </div>
@@ -338,8 +324,8 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Ce qu'on dit <em>à propos de nous</em></h2>
-              <span>Les avis de nos plus grands clients</span>
+              <h2><?php echo $lang['testimonial-h2']; ?><em><?php echo $lang['testimonial-h2-em']; ?></em></h2>
+              <span><?php echo $lang['testimonial-span']; ?></span>
             </div>
           </div>
           <div class="col-md-12">
@@ -347,36 +333,27 @@ https://templatemo.com/tm-545-finance-business
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>Client 1</h4>
-                  <span>Fonction du client 1</span>
-                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
+                  <h4><?php echo $lang['testimonial1-h4']; ?></h4>
+                  <span><?php echo $lang['testimonial1-span']; ?></span>
+                  <p><?php echo $lang['testimonial1-p']; ?></p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>Client 2</h4>
-                  <span>Fonction du client 2</span>
-                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
+                  <h4><?php echo $lang['testimonial2-h4']; ?></h4>
+                  <span><?php echo $lang['testimonial2-span']; ?></span>
+                  <p><?php echo $lang['testimonial2-p']; ?></p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>Nom du client 3</h4>
-                  <span>fonction du client</span>
-                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
-                </div>
-                <img src="http://placehold.it/60x60" alt="">
-              </div>
-              
-              <div class="testimonial-item">
-                <div class="inner-content">
-                  <h4>Nom du client 4</h4>
-                  <span>fonction du client</span>
-                  <p>"commentaire de client."</p>
+                  <h4><?php echo $lang['testimonial3-h4']; ?></h4>
+                  <span><?php echo $lang['testimonial3-span']; ?></span>
+                  <p><?php echo $lang['testimonial3-p']; ?></p>
                 </div>
                 <img src="http://placehold.it/60x60" alt="">
               </div>
@@ -392,8 +369,8 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Envoyer <em>un message</em></h2>
-              <span>Etiam suscipit ante a odio consequat</span>
+              <h2><?php echo $lang['callback-h2']; ?><em><?php echo $lang['callback-h2-em']; ?></em></h2>
+              <span><?php echo $lang['callback-span']; ?></span>
             </div>
           </div>
           <div class="col-md-12">
@@ -402,27 +379,27 @@ https://templatemo.com/tm-545-finance-business
                 <div class="row">
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Nom complet" required>
+                      <input name="name" type="text" class="form-control" id="name" placeholder=<?php echo $lang['callback-nom']; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder=<?php echo $lang['callback-mail']; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject" required>
+                      <input name="subject" type="text" class="form-control" id="subject" placeholder="<?php echo $lang['callback-subject']; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required></textarea>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="<?php echo $lang['callback-msg']; ?>" required></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="border-button">Send Message</button>
+                      <button type="submit" id="form-submit" class="border-button"><?php echo $lang['callback-btn']; ?></button>
                     </fieldset>
                   </div>
                 </div>
@@ -476,8 +453,8 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Nos réseaux sociaux</h4>
-            <p>En cliquant sur ces icones, vous allez être redirigé directement vers nos réseaux sociaux.</p>
+            <h4><?php echo $lang["footer1-h4"]; ?></h4>
+            <p><?php echo $lang["footer1-p"]; ?></p>
             <ul class="social-icons">
               <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -486,47 +463,47 @@ https://templatemo.com/tm-545-finance-business
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Liens utiles</h4>
+            <h4><?php echo $lang["footer2-h4"]; ?></h4>
             <ul class="menu-list">
-              <li><a href="#top">Retour en haut de la page</a></li>
-              <li><a href="#service">Nos services</a></li>
-              <li><a href="#about">Découvrir notre entreprise</a></li>
-              <li><a href="#pov">Les avis sur nous</a></li>
-              <li><a href="#partners">Nos partenaires</a></li>
+              <li><a href="#top"><?php echo $lang["footer2-link1"]; ?></a></li>
+              <li><a href="#service"><?php echo $lang["footer2-link2"]; ?></a></li>
+              <li><a href="#about"><?php echo $lang["footer2-link3"]; ?></a></li>
+              <li><a href="#pov"><?php echo $lang["footer2-link4"]; ?></a></li>
+              <li><a href="#partners"><?php echo $lang["footer2-link5"]; ?></a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Pages supplémentaires</h4>
+            <h4><?php echo $lang[""]; ?></h4>
             <ul class="menu-list">
-              <li><a href="about.php">A propos</a></li>
-              <li><a href="contact.php">Nous contacter</a></li>
-              <li><a href="#">Page d'aide</a></li>
-              <li><a href="#">Politique de confidentialité</a></li>
+              <li><a href="about.php"><?php echo $lang[""]; ?></a></li>
+              <li><a href="contact.php"><?php echo $lang[""]; ?></a></li>
+              <li><a href="#"><?php echo $lang[""]; ?></a></li>
+              <li><a href="#"><?php echo $lang[""]; ?></a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
-            <h4>Nous contacter</h4>
+            <h4><?php echo $lang[""]; ?></h4>
             <div class="contact-form">
               <form id="contact footer-contact" action="" method="post">
                 <div class="row">
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Nom complet" required>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="<?php echo $lang[""]; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="Adresse mail" required>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="<?php echo $lang[""]; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Votre message" required></textarea>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="<?php echo $lang[""]; ?>" required></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button">Envoyer</button>
+                      <button type="submit" id="form-submit" class="filled-button"><?php echo $lang[""]; ?></button>
                     </fieldset>
                   </div>
                 </div>

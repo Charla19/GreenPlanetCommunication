@@ -48,7 +48,7 @@ $lang = array(
 	"service2-p" => "Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.",
 	"service3-h4" => "service 3",
 	"service3-p" => "Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.",
-	"service1-btn" => "Découvrir",
+	"service-btn" => "Découvrir",
 	//fun facts
 	"fun-fact-span" => "Propulsez durablement vos idées",
 	"fun-fact-h2" => "Nos solutions pour la croissance ",
@@ -70,7 +70,7 @@ $lang = array(
 	"vision-h2" => "Projection et ",
 	"vision-h2-em" => " feuille de route",
 	"vision-span" => "Propulsez durablement vos idées",
-	"vision-h2-em" => "Nos visions",
+	"vision-h2-em1" => "Nos visions",
 	"vision-p" => "En trois ans, s’imposer comme un acteur de référence proposant un panel complet de services de communication aux entreprises.",
 	"vision-p-br" => "Atteindre un taux moyen de satisfaction des clients de 95% sur les différents KPI.",
 	//testimonial
@@ -95,6 +95,7 @@ $lang = array(
 	"callback-subject" => "Sujet",
 	"callback-msg" => "Votre message",
 	"callback-btn" => "Envoyer",
+	//partners (nothing to declare)
 	//footer
 	// social networks
 	"footer1-h4" => "Nos réseaux sociaux",
@@ -192,17 +193,23 @@ $lang = array(
 
 	//Contact page
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
+	//header (already declared)
+	//section heading
+	"section-heading-h1" => "Nous contacter",
+	"section-heading-span" => "Nous avons 20 ans d'expériences",
+	//Contact information
+	"contact-item1-h4" => "Phone",
+	"contact-item1-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
+	"Contact-item1-a" => "090-080-0760",
+	"contact-item2-h4" => "Email",
+	"contact-item2-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
+	"Contact-item2-a" => "info@company.com",
+	"contact-item3-h4" => "Location",
+	"contact-item3-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
+	"Contact-item3-a" => "Vue sur Google Maps",
+	//Call back (already declared)
+	//Partners (already declared)
+	//footer (already declared)
 	"" => "",
 	"" => "",
 	"" => "",
