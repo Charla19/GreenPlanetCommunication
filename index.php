@@ -1,7 +1,8 @@
+<?php include "langues/fr.php"; ?>
+
 <!DOCTYPE html>
 <html lang="<?php echo $lang["html-lang"]; ?>">
 
-<?php include "langues/fr.php"; ?>
   <head>
 
     <meta charset="utf-8">
