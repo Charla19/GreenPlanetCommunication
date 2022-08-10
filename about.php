@@ -9,7 +9,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>GreenPC| About Page</title>
+    <title>A propos</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -102,11 +102,9 @@ https://templatemo.com/tm-545-finance-business
     <div class="page-heading header-text"  id="Top">
       <div class="container">
         <div class="row">
-		  <div class="col-md-12">
           <div class="col-md-12">
             <h1>A propos de nous</h1>
             <span>Nous avons 20 ans d'expériences</span>
-          </div>
           </div>
         </div>
       </div>
@@ -207,7 +205,7 @@ https://templatemo.com/tm-545-finance-business
           <div class="col-md-12">
             <div class="section-heading">
               <h2>Les valeurs <em>que l'on soutienne</em></h2>
-              <span>Green Planet Communication</span>
+              <span>Transformer la communication de votre entreprise en vecteur de croissance durable</span>
             </div>
           </div>
           <div class="col-md-4">

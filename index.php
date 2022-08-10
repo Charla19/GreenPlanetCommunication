@@ -165,7 +165,7 @@ https://templatemo.com/tm-545-finance-business
             <span>Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</span>
           </div>
           <div class="col-md-4">
-            <a href="contact.html" class="border-button">Nous contacter</a>
+            <a href="contact.php" class="border-button">Nous contacter</a>
           </div>
         </div>
       </div>
@@ -186,7 +186,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="down-content">
                 <h4>service 1</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Découvrir</a>
+                <a href="services.php#services" class="filled-button">Découvrir</a>
               </div>
             </div>
           </div>
@@ -196,7 +196,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="down-content">
                 <h4>service 2</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Découvrir</a>
+                <a href="services.php#services" class="filled-button">Découvrir</a>
               </div>
             </div>
           </div>
@@ -206,7 +206,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="down-content">
                 <h4>service 3</h4>
                 <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Découvrir</a>
+                <a href="services.php#services" class="filled-button">Découvrir</a>
               </div>
             </div>
           </div>
@@ -275,6 +275,40 @@ https://templatemo.com/tm-545-finance-business
                     <h2>A la découverte de <em>notre entreprise</em></h2>
                     <p>Notre mission est de transformer la communication de votre entreprise en vecteur de croissance durable.</p>
                     <a href="about.php" class="filled-button">Découvrir</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="more-info about-info">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Projection et <em> feuille de route</em></h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="more-info-content">
+              <div class="row">
+                <div class="col-md-6 align-self-center">
+                  <div class="right-content">
+                    <span>Propulsez durablement vos idées</span>
+                    <h2><em>Nos visions</em></h2>
+                    <p>En trois ans, s’imposer comme un acteur de référence proposant un panel complet de services de communication aux entreprises. 
+                    <br>Atteindre un taux moyen de satisfaction des clients de 95% sur les différents KPI.</p>
+                    <!-- <a href="" class="filled-button"></a> -->
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="left-image">
+                    <img src="assets/gifs/roadmap.gif" alt="Roadmap">
                   </div>
                 </div>
               </div>

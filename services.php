@@ -9,7 +9,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Finance Business - Services</title>
+    <title>Services</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -101,7 +101,7 @@ https://templatemo.com/tm-545-finance-business
     <div class="page-heading header-text" id="top">
       <div class="container">
         <div class="row">
-        <div class="col-md-12">
+          <div class="col-md-12">
             <h1>Nos services</h1>
             <span>Nous avons 20 ans d'expériences</span>
           </div>
@@ -109,7 +109,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="single-services">
+    <div class="single-services" id="services">
       <div class="container">
         <div class="row" id="tabs">
           <div class="col-md-4">
@@ -231,10 +231,6 @@ https://templatemo.com/tm-545-finance-business
             <h4>Liens utiles</h4>
             <ul class="menu-list">
               <li><a href="#top">Retour en haut de la page</a></li>
-              <!--<li><a href="#service">Nos services</a></li>
-              <li><a href="#about">Découvrir notre entreprise</a></li>
-              <li><a href="#pov">Les avis sur nous</a></li>
-              <li><a href="#partners">Nos partenaires</a></li>-->
             </ul>
           </div>
           <div class="col-md-3 footer-item">
