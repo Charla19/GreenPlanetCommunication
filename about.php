@@ -99,7 +99,7 @@ https://templatemo.com/tm-545-finance-business
     </header>
 
     <!-- Page Content -->
-    <div class="page-heading header-text"  id="Top">
+    <div class="page-heading header-text about"  id="Top">
       <div class="container">
         <div class="row">
           <div class="col-md-12">

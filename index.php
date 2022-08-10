@@ -20,6 +20,20 @@
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-finance-business.css">
     <link rel="stylesheet" href="assets/css/owl.css">
+
+    <script>
+      $(window).scroll(function() {
+            var scroll = $(window).scrollTop();
+            var box = $('.accueil').height();
+            var header = $('header').height();
+  
+            if (scroll >= box - (header*7)) {
+              $("header").addClass("background-header");
+            } else {
+              $("header").removeClass("background-header");
+            }
+          });
+    </script>
 <!--
 
 Finance Business TemplateMo
@@ -102,7 +116,7 @@ https://templatemo.com/tm-545-finance-business
 
     <!-- Page Content -->
     <!-- Banner Starts Here -->
-    <div class="main-banner header-text" id="top"  id="top">
+    <div class="main-banner header-text accueil" id="top"  id="top">
         <div class="Modern-Slider">
           <!-- Item -->
           <div class="item item-1">
@@ -542,6 +556,8 @@ https://templatemo.com/tm-545-finance-business
           t.style.color='#fff';
           }
       }
+
+      
     </script>
 
   </body>
