@@ -103,7 +103,7 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1>A propos de nous</h1>
+            <h1>A propos <em>de nous</em></h1>
             <span>Nous avons 20 ans d'expériences</span>
           </div>
         </div>
@@ -297,7 +297,6 @@ https://templatemo.com/tm-545-finance-business
           </div>
           <div class="col-md-12">
             <div class="owl-testimonials owl-carousel">
-              
               <div class="testimonial-item">
                 <div class="inner-content">
                   <h4>Client 1</h4>

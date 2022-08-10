@@ -223,7 +223,7 @@ https://templatemo.com/tm-545-finance-business
               <h2>Nos solutions pour la croissance <em>de votre entreprise</em></h2>
               <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
               <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
-              <a href="" class="filled-button">Read More</a>
+              <a href="" class="filled-button">En savoir plus</a>
             </div>
           </div>
           <div class="col-md-6 align-self-center">
@@ -284,6 +284,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
+    <!-- Vision starts here -->
     <div class="more-info about-info">
       <div class="container">
         <div class="row">
@@ -377,7 +378,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Request a <em>call back</em></h2>
+              <h2>Envoyer <em>un message</em></h2>
               <span>Etiam suscipit ante a odio consequat</span>
             </div>
           </div>
@@ -387,7 +388,7 @@ https://templatemo.com/tm-545-finance-business
                 <div class="row">
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="Nom complet" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-4 col-md-12 col-sm-12">
