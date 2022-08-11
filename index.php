@@ -1,4 +1,4 @@
-<?php include "langues/fr.php"; ?>
+<?php include "langues/decide-lan.php"; ?>
 
 <!DOCTYPE html>
 <html lang="<?php echo $lang["html-lang"]; ?>">
@@ -89,9 +89,9 @@ https://templatemo.com/tm-545-finance-business
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><?php echo $lang["lang-btn"]; ?></a>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                  <li><a class="dropdown-item" href="#"><?php echo $lang["lang-fr"]; ?></a></li>
-                  <li><a class="dropdown-item" href="#"><?php echo $lang["lang-ang"]; ?></a></li>
-                  <li><a class="dropdown-item" href="#"><?php echo $lang["lang-es"]; ?></a></li>
+                  <li><a class="dropdown-item" href="index.php?lang=fr"><?php echo $lang["lang-fr"]; ?></a></li>
+                  <li><a class="dropdown-item" href="index.php?lang=en"><?php echo $lang["lang-ang"]; ?></a></li>
+                  <li><a class="dropdown-item" href="index.php?lang=es"><?php echo $lang["lang-es"]; ?></a></li>
                 </ul>
               </li>
             </ul>
@@ -306,8 +306,7 @@ https://templatemo.com/tm-545-finance-business
                     <span><?php echo $lang['vision-span']; ?></span>
                     <h2><em><?php echo $lang['vision-h2-em1']; ?></em></h2>
                     <p><?php echo $lang['vision-p']; ?> 
-                    <br><?php echo $lang['vision-p-br']; ?></p>
-                    <!-- <a href="" class="filled-button"></a> -->
+                    <br><br><?php echo $lang['vision-p-br']; ?></p>
                   </div>
                 </div>
                 <div class="col-md-6">

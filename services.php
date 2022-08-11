@@ -1,4 +1,4 @@
-<?php include "langues/fr.php"; ?>
+<?php include "langues/decide-lan.php"; ?>
 
 <!DOCTYPE html>
 <html lang="<?php echo $lang["html-lang"]; ?>">
@@ -88,9 +88,9 @@ https://templatemo.com/tm-545-finance-business
 			  <li class="nav-item dropdown">
 				 <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><?php echo $lang["lang-btn"]; ?></a>
 				 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-					<li><a class="dropdown-item" href="#"><?php echo $lang["lang-fr"]; ?></a></li>
-					<li><a class="dropdown-item" href="#"><?php echo $lang["lang-ang"]; ?></a></li>
-					<li><a class="dropdown-item" href="#"><?php echo $lang["lang-es"]; ?></a></li>
+					<li><a class="dropdown-item" href="services.php?lang=fr"><?php echo $lang["lang-fr"]; ?></a></li>
+					<li><a class="dropdown-item" href="services.php?lang=en"><?php echo $lang["lang-ang"]; ?></a></li>
+					<li><a class="dropdown-item" href="services.php?lang=es"><?php echo $lang["lang-es"]; ?></a></li>
 				 </ul>
 			  </li>
             </ul>

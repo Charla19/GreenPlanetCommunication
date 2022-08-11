@@ -56,14 +56,14 @@ $lang = array(
 	"fun-fact-p" => "Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue.",
 	"fun-fact-br" => "Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.",
 	"fun-fact-btn" => "Más información",
-	"count-title1" => "Horas laborales",
+	"count-title1" => "    Horas laborales",
 	"count-title2" => "Excelentes críticas",
 	"count-title3" => "Proyectos Realizados",
-	"count-title4" => "Premios ganados",
+	"count-title4" => "    Premios ganados",
 	//about
 	"about-span" => "¿Quiénes somos?",
 	"about-h2" => "Descubriendo",
-	"about-h2-em" => "nuestra empresa",
+	"about-h2-em" => " nuestra empresa",
 	"about-p" => "Nuestra misión es convertir la comunicación de su empresa en un vector de crecimiento sostenible.",
 	"about-btn" => "Descubrir",
 	//vision
@@ -72,6 +72,7 @@ $lang = array(
 	"vision-span" => "Propulsa tus ideas de forma sostenible",
 	"vision-h2-em1" => "Nuestras visiones",
 	"vision-p" => "En tres años, consolidarse como un actor de referencia ofreciendo una gama completa de servicios de comunicación a las empresas.",
+	"vision-p-br" => "Lograr una tasa promedio de satisfacción del cliente del 95% en los diversos KPI.",
 	//testimonial
 	"testimonial-h2" => "Que dicen",
 	"testimonial-h2-em" => " de nosotros",
@@ -125,9 +126,9 @@ $lang = array(
 	"title" => "A proposito",
 	//header (same for all pages) already declared
 	//section heading
-	"section-heading-h1" => "Conoce",
+	"section-heading-h1-1" => "Conoce",
 	"section-heading-em" => " nuestra empresa",
-	"section-heading-span" => "Propulsa tus ideas de forma sostenible",
+	"section-heading-span-1" => "Propulsa tus ideas de forma sostenible",
 	//Signature Green Planet Communication
 	"signature-h2" => "La firma de ",
 	"signature-h2-em" => "Green Planet Communication",
