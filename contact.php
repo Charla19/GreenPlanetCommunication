@@ -91,7 +91,7 @@ https://templatemo.com/tm-545-finance-business
               <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <li><a class="dropdown-item" href="contact.php?lang=fr"><?php echo $lang["lang-fr"]; ?></a></li>
                 <li><a class="dropdown-item" href="contact.php?lang=en"><?php echo $lang["lang-ang"]; ?></a></li>
-                <li><a class="dropdown-item" href="contact.php?lang=es'"><?php echo $lang["lang-es"]; ?></a></li>
+                <li><a class="dropdown-item" href="contact.php?lang=es"><?php echo $lang["lang-es"]; ?></a></li>
               </ul>
               </li>
             </ul>
