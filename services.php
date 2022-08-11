@@ -105,7 +105,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <h1><?php echo $lang["section-heading-h1-2"]; ?></h1>
-            <span><?php echo $lang["section-heading-span"]; ?></span>
+            <span><?php echo $lang["section-heading-span-2"]; ?></span>
           </div>
         </div>
       </div>

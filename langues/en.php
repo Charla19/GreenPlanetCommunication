@@ -36,20 +36,70 @@ $lang = array(
 	"banner4-p" => "We like to strike a big blow to propel your message to the forefront. But what we prefer above all is to anchor it durably in people's minds.",
 	"banner4-btn" => "Learn more",	
 	"slogan" => "Propel your ideas sustainably.",
+	//Request form
+	"request-h4" => "Request a call back now?",
+	"request-span" => "Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis",
+	"request-a" => "Contact us",
+	//Services
+	"service-slogan" => "Sustainably propel your ideas",
+	"service1-h4" => "Department 1",
+	"service1-p" => "Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.",
+	"service2-h4" => "Department 2",
+	"service2-p" => "Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.",
+	"service3-h4" => "Department 3",
+	"service3-p" => "Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.",
+	"service-btn" => "Discover",
+	//fun facts
+	"fun-fact-span" => "Sustainably propel your ideas",
+	"fun-fact-h2" => "Our solutions for the growth",
+	"fun-fact-em" => " of your business",
+	"fun-fact-p" => "Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue.",
+	"fun-fact-br" => "Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.",
+	"fun-fact-btn" => "Learn more",
+	"count-title1" => "Work Hours",
+	"count-title2" => "Great Reviews",
+	"count-title3" => "Projects Done",
+	"count-title4" => "Awards Won",
 	//about
 	"about-span" => "Who are we?",
 	"about-h2" => "Discovering ",
 	"about-h2-em" => "our company",
 	"about-p" => "Our mission is to transform your company's communication into a vector of sustainable growth.",
 	"about-btn" => "Find out",
+	//vision
+	"vision-h2" => "Projection and",
+	"vision-h2-em" => " Roadmap",
+	"vision-span" => "Sustainably propel your ideas",
+	"vision-h2-em1" => "Our visions",
+	"vision-p" => "In three years, establish itself as a benchmark player offering a full range of communication services to businesses.",
+	"vision-p-br" => "Achieve an average customer satisfaction rate of 95% on the various KPIs.",
 	//testimonial
 	"testimonial-h2" => "What they say ",
 	"testimonial-h2-em" => "About us",
 	"testimonial-span" => "Reviews from our biggest customers",
+	"testimonial1-h4" => "Customer 1",
+	"testimonial1-span" => "Customer function 1",
+	"testimonial1-p" => "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+	"testimonial2-h4" => "Client 2",
+	"testimonial2-span" => "Customer function 2",
+	"testimonial2-p" => "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+	"testimonial3-h4" => "Customer 3",
+	"testimonial3-span" => "Customer function 3",
+	"testimonial3-p" => "Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.",
+	//Call back
+	"callback-h2" => "Send us ",
+	"callback-h2-em" => "a message",
+	"callback-span" => "Etiam suscipit ante a odio consequat",
+	"callback-nom" => "Full Name",
+	"callback-mail" => "Mail address",
+	"callback-subject" => "Object",
+	"callback-msg" => "Your message",
+	"callback-btn" => "Send",
+	//partners (nothing to declare)
 	//footer
 	// social networks
 	"footer1-h4" => "Our social networks",
-	"footer1-p" => "By clicking on these icons, you will be redirected directly to our social networks.<",
+	"footer1-p" => "By clicking on these icons, you will be redirected directly to our social networks.",
 	// useful links
 	"footer2-h4" => "Useful links",
 	"footer2-link1" => "Back to top",
@@ -68,18 +118,21 @@ $lang = array(
 	"footer4-placeholder-fullname" => "Full name",
 	"footer4-placeholder-mailAdress" => "Email address",
 	"footer4-placeholder-message" => "Your message",
+	"footer4-btn" => "Send",
 	//home page ends here 
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 	
 	//French language of about page about.php
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
-	"title" => "Green Planet Communication| About",
+	"title" => "About us",
 	//header (same for all pages) already declared
 	//section heading
-	"section-heading-h1" => "Get to know each other ",
-	"section-heading-em" => "with our company",
-	"section-heading-span" => "Propel your ideas sustainably.",
+	"section-heading-h1-1" => "Get to know ",
+	"section-heading-em" => "our company",
+	"section-heading-span-1" => "Propel your ideas sustainably.",
 	//Signature Green Planet Communication
+	"signature-h2" => "The Green Planet Communication ",
+	"signature-h2-em" => "signature",
 	"signature1-span" => "From the ancient Greek harmonia, 'group of sounds that go together'",
 	"signature1-h2" => "Harmony",
 	"signature1-p" => "Your business works like a symphony where each note, perfectly played, melodiously matches the others. Green Planet Communication takes the time to listen to your way of working and is in tune with your values. We then bring your voice within your company and to the heart of your market.",
@@ -95,53 +148,52 @@ $lang = array(
 	//Principle values
 	"value-heading-h2" => "Values ",
 	"value-heading-em" => "that we support",
+	"value-heading-span" => "Transform your company's communication into a vector of sustainable growth",
 	"value1" => "value 1",
 	"value1-span" => "Synonym value 1",
-	"value1-span" => "In your job, you are an expert. With your team, you have relevant and innovative ideas. Your customers are looking for your skills, the ones that set you apart from your competitors. ",
+	"value1-p" => "In your job, you are an expert. With your team, you have relevant and innovative ideas. Your customers are looking for your skills, the ones that set you apart from your competitors. ",
 	"value2" => "Value 2",
 	"value2-span" => "Synonyme Value 2",
 	"value2-p" => "Whether you like it or not, communication is at the heart of your business. With your customers of course, and with your employees.",
 	"value3" => "Value 3",
 	"value3-span" => "Synonyme Value 3",
 	"value3-p" => "Communicating well means making sure the right message reaches the right people. It is above all a question of listening and adaptation. And that's our job.",
-	//Visions
-	"vision-span" => "Transform your company's communication into a vector of sustainable growth",
-	"vision-h2-em" => "Projection into the future ",
-	"vision-p" => "In three years, establish itself as a reference player offering a complete range of communication services to companies. ",
-	"vision-p-br" => "Achieve an average customer satisfaction rate of 95% on the various KPIs. ",
-	"vision-p-br-br" => "Here are the figures that we hope to reach in 10 years - >",
-	"vision-count-title1" => "Customer satisfaction rate",
-	"vision-count-title" => "Excellent reviews",
-	"vision-count-title" => "Completed and successful projects",
-	"vision-count-title" => "Awards won",
-	//testimonials (already declared)	
-	"testimonial1-h4" => "Customer 1",
-	"testimonial1-span" => "Client function 1",
-	"testimonial1-p" => '"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."',
-	"testimonial2-h4" => "Customer 2",
-	"testimonial2-span" => "Client function 2",
-	"testimonial2-p" => '"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."',
+		//fun facts (altready declared)
+	//testimonials (already declared)
 	//footer (already  declared)
+	"footer2-link6" => "Signature",
+	"footer2-link7" => "Our values",
+	"footer3-link5" => "Home",
+	"footer3-link6" => "Services",
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 
 	// Services page
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
+	"title2" => "Services",
+	//section heading
+	"section-heading-h1-2" => "Our services",
+	"section-heading-span-2" => "We have 20 years of experience",
+	//Services
+	"services-tabs1" => "Market Analysis ",
+	"services-tabs2" => "Financial Data ",
+	"services-tabs3" => "Accounting Service ",
+	"services-tabs4" => "Overall Evaluation ",
+	"tabs1-h4" => "Market Analysis",
+	"tabs1-p" => "Vivamus sed feugiat elit. Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
+	"tabs1-p-br-br" => "Proin eu molestie risus. Etiam suscipit pretium odio, at consectetur nisi. Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante.",
+	"tabs2-h4" => "Financial Data",
+	"tabs2-p" => "Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet ",
+	"tabs2-p-br-br" => "Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
+	"tabs3-h4" => "Accounting Service",
+	"tabs3-p" => "Mauris lobortis quam id dictum dignissim. Donec pellentesque erat dolor, cursus dapibus turpis hendrerit quis. Suspendisse at suscipit arcu. Nulla sed erat lectus. Nulla facilisi. In sit amet neque sapien. Donec scelerisque mi at gravida efficitur. Nunc lacinia a est eu malesuada. Curabitur eleifend elit sapien, sed pulvinar orci luctus eget. ",
+	"tabs3-p-br-br" => "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vel ultrices nulla, ac tincidunt eros. Aenean quis tellus velit. Praesent pretium justo non auctor condimentum.",
+	"tabs4-h4" => "Overall Evaluation",
+	"tabs4-p" => "Integer vehicula sapien quis dolor efficitur, eget molestie eros tempus. Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis. Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. ",
+	"tabs4-p-br-br" => "Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique. Etiam suscipit ante a odio consequat, in ornare lacus suscipit. Cras ac libero massa. Quisque rhoncus velit feugiat vulputate mollis. Donec nisl eros, malesuada sed nisi id, condimentum condimentum quam.",
+	// call back (already declared)
+	//partners
+	//footer (already declared)
+	"footer2-link8" => "Services",
 	"" => "",
 	"" => "",
 	"" => "",
@@ -151,19 +203,26 @@ $lang = array(
 
 	//Contact page
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
-	"" => "",
+	//header (already declared)
+	"title3" => "Contact us",
+	//section heading
+	"section-heading-h1-3" => "Contact us",
+	"section-heading-span-3" => "We have 20 years of experience",
+	//Contact information
+	"contact-item1-h4" => "Phone",
+	"contact-item1-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
+	"Contact-item1-a" => "090-080-0760",
+	"contact-item2-h4" => "E-mail",
+	"contact-item2-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
+	"Contact-item2-a" => "info@company.com",
+	"contact-item3-h4" => "Location",
+	"contact-item3-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
+	"Contact-item3-a" => "View on Google Maps",
+	//Call back (already declared)
+	//Partners (already declared)
+	//footer (already declared)
+	"footer2-link9" => "Our contacts",
+	"footer2-link10" => "Geolocation",
 	"" => "",
 	"" => "",
 	"" => "",

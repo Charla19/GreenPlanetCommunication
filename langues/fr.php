@@ -37,7 +37,7 @@ $lang = array(
 	"banner4-btn" => "Apprendre plus",	
 	"slogan" => "Propulsez durablement vos idées",
 	//Request form
-	"request-h4" => "Demander un rappel maintenant?",
+	"request-h4" => "Passer un message maintenant?",
 	"request-span" => "Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis",
 	"request-a" => "Nous contacter",
 	//Services
@@ -56,7 +56,7 @@ $lang = array(
 	"fun-fact-p" => "Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue.",
 	"fun-fact-br" => "Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.",
 	"fun-fact-btn" => "En savoir plus",
-	"count-title1" => "Heures de travail",
+	"count-title1" => "Heures de travail ",
 	"count-title2" => "Excellentes critiques",
 	"count-title3" => "Projets accomplies",
 	"count-title4" => "Récompenses remportées",
@@ -202,8 +202,8 @@ $lang = array(
 
 	//Contact page
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
-	//header (already declared)
 	"title3" => "Nous contacter",
+	//header (already declared)
 	//section heading
 	"section-heading-h1-3" => "Nous contacter",
 	"section-heading-span" => "Nous avons 20 ans d'expériences",
