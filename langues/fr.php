@@ -99,7 +99,7 @@ $lang = array(
 	//footer
 	// social networks
 	"footer1-h4" => "Nos réseaux sociaux",
-	"footer1-p" => "En cliquant sur ces icones, vous allez être redirigé directement vers nos réseaux sociaux.<",
+	"footer1-p" => "En cliquant sur ces icones, vous allez être redirigé directement vers nos réseaux sociaux.",
 	// useful links
 	"footer2-h4" => "Liens utiles",
 	"footer2-link1" => "Retour en haut de la page",
@@ -118,18 +118,21 @@ $lang = array(
 	"footer4-placeholder-fullname" => "Nom complet",
 	"footer4-placeholder-mailAdress" => "Adresse mail",
 	"footer4-placeholder-message" => "Votre message",
+	"footer4-btn" => "Envoyer",
 	//home page ends here 
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 	
 	//French language of about page about.php
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
-	"title" => "Green Planet Communication| A propos",
+	"title" => "A propos",
 	//header (same for all pages) already declared
 	//section heading
-	"section-heading-h1" => "A propos ",
+	"section-heading-h1-1" => "A propos ",
 	"section-heading-em" => "de nous",
-	"section-heading-span" => "Nous avons 20 ans d'expériences",
+	"section-heading-span-1" => "Nous avons 20 ans d'expériences",
 	//Signature Green Planet Communication
+	"signature-h2" => "La signature",
+	"signature-h2-em" => "Green Planet Communication",
 	"signature1-span" => "Du grec ancien harmonia, ‘groupe de sons qui vont ensemble’",
 	"signature1-h2" => "Harmonie",
 	"signature1-p" => "Votre entreprise fonctionne comme une symphonie où chaque note, parfaitement jouée, s’accorde mélodieusement aux autres. Green Planet Communication prend le temps d’écouter votre mode de fonctionnement et se met au diapason de vos valeurs. Nous portons ensuite votre voix au sein de votre entreprise et au coeur de votre marché.",
@@ -145,9 +148,10 @@ $lang = array(
 	//Principle values
 	"value-heading-h2" => "Les valeurs ",
 	"value-heading-em" => "que l'on soutienne",
+	"value-heading-span" => "Transformer la communication de votre entreprise en vecteur de croissance durable",
 	"value1" => "valeur 1",
 	"value1-span" => "Synonyme valeur 1",
-	"value1-span" => "Dans votre métier, vous êtes un expert. Avec votre équipe, vous avez des idées pertinentes et innovantes. Vos clients recherchent vos compétences, celles qui vous distinguent de vos concurrents. ",
+	"value1-p" => "Dans votre métier, vous êtes un expert. Avec votre équipe, vous avez des idées pertinentes et innovantes. Vos clients recherchent vos compétences, celles qui vous distinguent de vos concurrents. ",
 	"value2" => "Valeur 2",
 	"value2-span" => "Synonyme valeur 2",
 	"value2-p" => "Bien communiquer, c’est s’assurer que le bon message parviennent aux bonnes personnes. C’est avant tout une question d’écoute et d’adaptation. Et cela, c’est notre métier.",
@@ -157,12 +161,17 @@ $lang = array(
 	//fun facts (altready declared)
 	//testimonials (already declared)
 	//footer (already  declared)
+	"footer2-link6" => "Signature",
+	"footer2-link7" => "Nos valeurs",
+	"footer3-link5" => "Accueil",
+	"footer3-link6" => "Services",
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 
 	// Services page
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
+	"title2" => "Services",
 	//section heading
-	"section-heading-h1" => "Nos services",
+	"section-heading-h1-2" => "Les services qu'on propose",
 	"section-heading-span" => "Nous avons 20 ans d'expériences",
 	//Services
 	"services-tabs1" => "Market Analysis ",
@@ -173,18 +182,18 @@ $lang = array(
 	"tabs1-p" => "Vivamus sed feugiat elit. Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
 	"tabs1-p-br-br" => "Proin eu molestie risus. Etiam suscipit pretium odio, at consectetur nisi. Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante.",
 	"tabs2-h4" => "Financial Data",
-	"tabs2-p" => "Vivamus sed feugiat elit. Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
-	"tabs2-p-br-br" => "Proin eu molestie risus. Etiam suscipit pretium odio, at consectetur nisi. Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante.",
+	"tabs2-p" => "Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet ",
+	"tabs2-p-br-br" => "Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
 	"tabs3-h4" => "Accounting Service",
-	"tabs3-p" => "Vivamus sed feugiat elit. Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
-	"tabs3-p-br-br" => "Proin eu molestie risus. Etiam suscipit pretium odio, at consectetur nisi. Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante.",
+	"tabs3-p" => "Mauris lobortis quam id dictum dignissim. Donec pellentesque erat dolor, cursus dapibus turpis hendrerit quis. Suspendisse at suscipit arcu. Nulla sed erat lectus. Nulla facilisi. In sit amet neque sapien. Donec scelerisque mi at gravida efficitur. Nunc lacinia a est eu malesuada. Curabitur eleifend elit sapien, sed pulvinar orci luctus eget. ",
+	"tabs3-p-br-br" => "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vel ultrices nulla, ac tincidunt eros. Aenean quis tellus velit. Praesent pretium justo non auctor condimentum.",
 	"tabs4-h4" => "Overall Evaluation",
-	"tabs4-p" => "Vivamus sed feugiat elit. Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
-	"tabs4-p-br-br" => "Proin eu molestie risus. Etiam suscipit pretium odio, at consectetur nisi. Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante.",
+	"tabs4-p" => "Integer vehicula sapien quis dolor efficitur, eget molestie eros tempus. Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis. Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. ",
+	"tabs4-p-br-br" => "Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique. Etiam suscipit ante a odio consequat, in ornare lacus suscipit. Cras ac libero massa. Quisque rhoncus velit feugiat vulputate mollis. Donec nisl eros, malesuada sed nisi id, condimentum condimentum quam.",
 	// call back (already declared)
 	//partners
 	//footer (already declared)
-	"" => "",
+	"footer2-link8" => "Services",
 	"" => "",
 	"" => "",
 	"" => "",
@@ -194,8 +203,9 @@ $lang = array(
 	//Contact page
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 	//header (already declared)
+	"title3" => "Nous contacter",
 	//section heading
-	"section-heading-h1" => "Nous contacter",
+	"section-heading-h1-3" => "Nous contacter",
 	"section-heading-span" => "Nous avons 20 ans d'expériences",
 	//Contact information
 	"contact-item1-h4" => "Phone",
@@ -210,8 +220,8 @@ $lang = array(
 	//Call back (already declared)
 	//Partners (already declared)
 	//footer (already declared)
-	"" => "",
-	"" => "",
+	"footer2-link9" => "Nos contactes",
+	"footer2-link10" => "Localisation",
 	"" => "",
 	"" => "",
 	"" => "",

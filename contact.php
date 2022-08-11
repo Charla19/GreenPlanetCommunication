@@ -1,5 +1,7 @@
+<?php include "langues/fr.php"; ?>
+
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="<?php echo $lang["html-lang"]; ?>">
 
   <head>
 
@@ -9,7 +11,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Nous contacter</title>
+    <title><?php echo $lang["title3"]; ?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -71,25 +73,25 @@ https://templatemo.com/tm-545-finance-business
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.php">Accueil
+                <a class="nav-link" href="index.php"><?php echo $lang["nav-home"]; ?>
                   <span class="sr-only">(current)</span>
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.php">A propos</a>
+                <a class="nav-link" href="about.php"><?php echo $lang["nav-about"]; ?></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="services.php">Nos services</a>
+                <a class="nav-link" href="services.php"><?php echo $lang["nav-service"]; ?></a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="contact.php">Contacter</a>
+                <a class="nav-link" href="contact.php"><?php echo $lang["nav-contact"]; ?></a>
               </li>
               <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Langues</a>
+              <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><?php echo $lang["lang-btn"]; ?></a>
               <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <li><a class="dropdown-item" href="#">Français</a></li>
-                <li><a class="dropdown-item" href="#">Anglais</a></li>
-                <li><a class="dropdown-item" href="#">Espagnole</a></li>
+                <li><a class="dropdown-item" href="#"><?php echo $lang["lang-fr"]; ?></a></li>
+                <li><a class="dropdown-item" href="#"><?php echo $lang["lang-ang"]; ?></a></li>
+                <li><a class="dropdown-item" href="#"><?php echo $lang["lang-es"]; ?></a></li>
               </ul>
               </li>
             </ul>
@@ -103,38 +105,38 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1>Nous contacter</h1>
-            <span>Nous avons 20 ans d'expériences</span>
+            <h1><?php echo $lang["section-heading-h1-3"]; ?></h1>
+            <span><?php echo $lang["section-heading-span"]; ?></span>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="contact-information">
+    <div class="contact-information" id="Contacts">
       <div class="container">
         <div class="row">
           <div class="col-md-4">
             <div class="contact-item">
               <i class="fa fa-phone"></i>
-              <h4>Phone</h4>
-              <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</p>
-              <a href="#">090-080-0760</a>
+              <h4><?php echo $lang["contact-item1-h4"]; ?></h4>
+              <p><?php echo $lang["contact-item1-p"]; ?></p>
+              <a href="#"><?php echo $lang["Contact-item1-a"]; ?></a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="contact-item">
               <i class="fa fa-envelope"></i>
-              <h4>Email</h4>
-              <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</p>
-              <a href="#">info@company.com</a>
+              <h4><?php echo $lang["contact-item2-h4"]; ?></h4>
+              <p><?php echo $lang["contact-item2-p"]; ?></p>
+              <a href="#"><?php echo $lang["Contact-item2-a"]; ?></a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="contact-item">
               <i class="fa fa-map-marker"></i>
-              <h4>Location</h4>
-              <p>1020 New Mountain Street<br>Forest Park, FP 11220</p>
-              <a href="#">View on Google Maps</a>
+              <h4><?php echo $lang["contact-item3-h4"]; ?></h4>
+              <p><?php echo $lang["contact-item3-p"]; ?></p>
+              <a href="#"><?php echo $lang["Contact-item3-a"]; ?></a>
             </div>
           </div>
         </div>
@@ -146,8 +148,8 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Send us a <em>message</em></h2>
-              <span>Suspendisse a ante in neque iaculis lacinia</span>
+              <h2><?php echo $lang["callback-h2"]; ?><em><?php echo $lang["callback-h2-em"]; ?></em></h2>
+              <span><?php echo $lang["callback-span"]; ?></span>
             </div>
           </div>
           <div class="col-md-12">
@@ -156,27 +158,27 @@ https://templatemo.com/tm-545-finance-business
                 <div class="row">
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
+                      <input name="name" type="text" class="form-control" id="name" placeholder="<?php echo $lang["callback-nom"]; ?>" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="<?php echo $lang["callback-mail"]; ?>" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject" required="">
+                      <input name="subject" type="text" class="form-control" id="subject" placeholder="<?php echo $lang["callback-subject"]; ?>" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="<?php echo $lang["callback-msg"]; ?>" required=""></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button">Send Message</button>
+                      <button type="submit" id="form-submit" class="filled-button"><?php echo $lang["callback-btn"]; ?></button>
                     </fieldset>
                   </div>
                 </div>
@@ -217,8 +219,8 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Nos réseaux sociaux</h4>
-            <p>En cliquant sur ces icones, vous allez être redirigé directement vers nos réseaux sociaux.</p>
+            <h4><?php echo $lang["footer1-h4"]; ?></h4>
+            <p><?php echo $lang["footer1-p"]; ?></p>
             <ul class="social-icons">
               <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -227,47 +229,45 @@ https://templatemo.com/tm-545-finance-business
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Liens utiles</h4>
+            <h4><?php echo $lang["footer2-h4"]; ?></h4>
             <ul class="menu-list">
-              <li><a href="#top">Retour en haut de la page</a></li>
-              <!--<li><a href="#service">Nos services</a></li>
-              <li><a href="#about">Découvrir notre entreprise</a></li>
-              <li><a href="#pov">Les avis sur nous</a></li>
-              <li><a href="#partners">Nos partenaires</a></li>-->
-            </ul>
-          </div>
+              <li><a href="#Top"><?php echo $lang["footer2-link1"]; ?></a></li>
+              <li><a href="#Contacts"><?php echo $lang["footer2-link9"]; ?></a></li>
+              <li><a href="#map"><?php echo $lang["footer2-link10"]; ?></a></li>
+            </div>
           <div class="col-md-3 footer-item">
-            <h4>Pages supplémentaires</h4>
+            <h4><?php echo $lang["footer3-h4"]; ?></h4>
             <ul class="menu-list">
-              <li><a href="about.php">A propos</a></li>
-              <li><a href="contact.php">Nous contacter</a></li>
-              <li><a href="#">Page d'aide</a></li>
-              <li><a href="#">Politique de confidentialité</a></li>
+              <li><a href="index.php"><?php echo $lang["footer3-link5"]; ?></a></li>
+              <li><a href="about.php"><?php echo $lang["footer3-link1"]; ?></a></li>
+              <li><a href="services.php"><?php echo $lang["footer3-link6"]; ?></a></li>
+              <li><a href="#"><?php echo $lang["footer3-link3"]; ?></a></li>
+              <li><a href="#"><?php echo $lang["footer3-link4"]; ?></a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
-            <h4>Nous contacter</h4>
+            <h4><?php echo $lang["footer4-h4"]; ?></h4>
             <div class="contact-form">
               <form id="contact footer-contact" action="" method="post">
                 <div class="row">
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Nom complet" required>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="<?php echo $lang["footer4-placeholder-fullname"]; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="Adresse mail" required>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="<?php echo $lang["footer4-placeholder-mailAdress"]; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Votre message" required></textarea>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="<?php echo $lang["footer4-placeholder-message"]; ?>" required></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button">Envoyer</button>
+                      <button type="submit" id="form-submit" class="filled-button"><?php echo $lang["footer4-btn"]; ?></button>
                     </fieldset>
                   </div>
                 </div>

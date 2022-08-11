@@ -165,12 +165,13 @@ https://templatemo.com/tm-545-finance-business
             <span><?php echo $lang["request-span"]; ?></span>
           </div>
           <div class="col-md-4">
-            <a href="contact.php" class="border-button">  <h4><?php echo $lang["request-a"]; ?></a>
+            <a href="contact.php" class="border-button"><?php echo $lang["request-a"]; ?></a>
           </div>
         </div>
       </div>
     </div>
 
+    <!-- Services -->
     <div class="services" id="service">
       <div class="container">
         <div class="row">
@@ -214,6 +215,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
+    <!-- Fun facts -->
     <div class="fun-facts">
       <div class="container">
         <div class="row">
@@ -258,6 +260,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
+    <!-- Section about intro -->
     <div class="more-info" id="about">
       <div class="container">
         <div class="row">
@@ -319,6 +322,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
+    <!-- Testimonials -->
     <div class="testimonials" id="pov">
       <div class="container">
         <div class="row">
@@ -364,6 +368,7 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
+    <!-- Callback -->
     <div class="callback-form">
       <div class="container">
         <div class="row">
@@ -384,7 +389,7 @@ https://templatemo.com/tm-545-finance-business
                   </div>
                   <div class="col-lg-4 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder=<?php echo $lang['callback-mail']; ?>" required>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="<?php echo $lang['callback-mail']; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-4 col-md-12 col-sm-12">
@@ -473,37 +478,38 @@ https://templatemo.com/tm-545-finance-business
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4><?php echo $lang[""]; ?></h4>
+            <h4><?php echo $lang["footer3-h4"]; ?></h4>
             <ul class="menu-list">
-              <li><a href="about.php"><?php echo $lang[""]; ?></a></li>
-              <li><a href="contact.php"><?php echo $lang[""]; ?></a></li>
-              <li><a href="#"><?php echo $lang[""]; ?></a></li>
-              <li><a href="#"><?php echo $lang[""]; ?></a></li>
+              <li><a href="about.php"><?php echo $lang["footer3-link1"]; ?></a></li>
+              <li><a href="services.php"><?php echo $lang["footer3-link6"]; ?></a></li>
+              <li><a href="contact.php"><?php echo $lang["footer3-link2"]; ?></a></li>
+              <li><a href="#"><?php echo $lang["footer3-link3"]; ?></a></li>
+              <li><a href="#"><?php echo $lang["footer3-link4"]; ?></a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
-            <h4><?php echo $lang[""]; ?></h4>
+            <h4><?php echo $lang["footer4-h4"]; ?></h4>
             <div class="contact-form">
               <form id="contact footer-contact" action="" method="post">
                 <div class="row">
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="<?php echo $lang[""]; ?>" required>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="<?php echo $lang["footer4-placeholder-fullname"]; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12 col-md-12 col-sm-12">
                     <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="<?php echo $lang[""]; ?>" required>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="<?php echo $lang["footer4-placeholder-mailAdress"]; ?>" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="<?php echo $lang[""]; ?>" required></textarea>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="<?php echo $lang["footer4-placeholder-message"]; ?>" required></textarea>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="filled-button"><?php echo $lang[""]; ?></button>
+                      <button type="submit" id="form-submit" class="filled-button"><?php echo $lang["footer4-btn"]; ?></button>
                     </fieldset>
                   </div>
                 </div>
