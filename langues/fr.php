@@ -5,6 +5,7 @@ $lang = array(
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 	// html file
 	"html-lang" => "fr",
+	"Availability" => "Lun-Ven ",
 	//header (same for all pages)
 	"nav-home" => "Accueil",
 	"nav-about" => "A propos",
@@ -89,7 +90,7 @@ $lang = array(
 	//Call back
 	"callback-h2" => "Envoyer ",
 	"callback-h2-em" => "un message",
-	"callback-span" => "Etiam suscipit ante a odio consequat",
+	"callback-span" => "Propulser durablement vos idées",
 	"callback-nom" => "Nom complet",
 	"callback-mail" => "Adresse mail",
 	"callback-subject" => "Sujet",
@@ -132,7 +133,7 @@ $lang = array(
 	"section-heading-span-1" => "Nous avons 20 ans d'expériences",
 	//Signature Green Planet Communication
 	"signature-h2" => "La signature",
-	"signature-h2-em" => "Green Planet Communication",
+	"signature-h2-em" => " Green Planet Communication",
 	"signature1-span" => "Du grec ancien harmonia, ‘groupe de sons qui vont ensemble’",
 	"signature1-h2" => "Harmonie",
 	"signature1-p" => "Votre entreprise fonctionne comme une symphonie où chaque note, parfaitement jouée, s’accorde mélodieusement aux autres. Green Planet Communication prend le temps d’écouter votre mode de fonctionnement et se met au diapason de vos valeurs. Nous portons ensuite votre voix au sein de votre entreprise et au coeur de votre marché.",
@@ -172,7 +173,7 @@ $lang = array(
 	"title2" => "Services",
 	//section heading
 	"section-heading-h1-2" => "Les services qu'on propose",
-	"section-heading-span" => "Nous avons 20 ans d'expériences",
+	"section-heading-span-2" => "Nous avons 20 ans d'expériences",
 	//Services
 	"services-tabs1" => "Market Analysis ",
 	"services-tabs2" => "Financial Data ",

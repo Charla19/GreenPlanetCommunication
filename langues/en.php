@@ -5,6 +5,7 @@ $lang = array(
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 	// html file
 	"html-lang" => "en",
+	"Availability" => "Mon-Fri ",
 	//header (same for all pages)
 	"nav-home" => "Home",
 	"nav-about" => "About",
@@ -89,7 +90,7 @@ $lang = array(
 	//Call back
 	"callback-h2" => "Send us ",
 	"callback-h2-em" => "a message",
-	"callback-span" => "Etiam suscipit ante a odio consequat",
+	"callback-span" => "Sustainably propel your ideas",
 	"callback-nom" => "Full Name",
 	"callback-mail" => "Mail address",
 	"callback-subject" => "Object",

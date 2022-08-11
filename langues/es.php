@@ -5,6 +5,7 @@ $lang = array(
 	//============================================================================================================================================================================================================================================================================================================================================================================================================
 	// html file
 	"html-lang" => "es",
+	"Availability" => "Lun-Vier ",
 	//header (same for all pages)
 	"nav-home" => "Inicio",
 	"nav-about" => "Acerca de",
@@ -51,7 +52,7 @@ $lang = array(
 	"service-btn" => "Descubrir",
 	//fun facts
 	"fun-fact-span" => "Propulsa tus ideas de forma sostenible",
-	"fun-fact-h2" => "Nuestras soluciones",
+	"fun-fact-h2" => "Nuestras soluciones ",
 	"fun-fact-em" => "para el crecimiento de su negocio",
 	"fun-fact-p" => "Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue.",
 	"fun-fact-br" => "Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.",
@@ -89,7 +90,7 @@ $lang = array(
 	//Call back
 	"callback-h2" => "Enviar ",
 	"callback-h2-em" => "un mensaje",
-	"callback-span" => "Etiam suscipit ante a odio consequat",
+	"callback-span" => "Propulsa tus ideas de forma sostenible",
 	"callback-nom" => "Nombre completo",
 	"callback-mail" => "Correo electrónico",
 	"callback-subject" => "Objeto",
@@ -150,7 +151,7 @@ $lang = array(
 	"value-heading-span" => "Convierte la comunicación de tu empresa en un vector de crecimiento sostenible",
 	"value1" => "Valor 1",
 	"value1-span" => "Sinónimo valor 1",
-	"value1-span" => "En tu profesión, eres un experto. Con tu equipo, tienes ideas relevantes e innovadoras. Tus clientes buscan tus habilidades, esas que te diferencian de tus competidores.",
+	"value1-p" => "En tu profesión, eres un experto. Con tu equipo, tienes ideas relevantes e innovadoras. Tus clientes buscan tus habilidades, esas que te diferencian de tus competidores.",
 	"value2" => "Valeur 2",
 	"value2-span" => "Sinónimo valor 2",
 	"value2-p" => "Te guste o no, la comunicación es el corazón de tu negocio. Con sus clientes, por supuesto, y con sus empleados.",
@@ -170,7 +171,7 @@ $lang = array(
 	"title2" => "Servicios",
 	//section heading
 	"section-heading-h1-2" => "Los servicios que ofrecemos",
-	"section-heading-span" => "Tenemos 20 años de experiencia",
+	"section-heading-span-2" => "Tenemos 20 años de experiencia",
 	//Services
 	"services-tabs1" => "Análisis de mercado",
 	"services-tabs2" => "Datos financieros",
@@ -211,7 +212,7 @@ $lang = array(
 	"Contact-item1-a" => "090-080-0760",
 	"contact-item2-h4" => "Correo electrónico",
 	"contact-item2-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
-	"Contact-item2-a" => "info@company.com",
+	"Contact-item2-a" => "info@empresa.com",
 	"contact-item3-h4" => "Ubicación geográfica",
 	"contact-item3-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
 	"Contact-item3-a" => "Ver en Google Maps",
