@@ -133,7 +133,7 @@ https://templatemo.com/tm-545-finance-business
                     <!--<a href="" class="filled-button">Read More</a>-->
                   </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 d-none d-md-block">
                   <div class="left-image">
                     <img src="assets/gifs/Team.gif" alt="">
                   </div>
@@ -144,7 +144,7 @@ https://templatemo.com/tm-545-finance-business
 		  <div class="col-md-12">
             <div class="more-info-content">
               <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 d-none d-md-block">
                   <div class="left-image">
                     <img src="assets/gifs/excellence.gif" alt="">
                   </div>
@@ -171,7 +171,7 @@ https://templatemo.com/tm-545-finance-business
                     <!--<a href="" class="filled-button">Read More</a>-->
                   </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 d-none d-md-block">
                   <div class="left-image">
                     <img src="assets/gifs/Confiance.gif" alt="">
                   </div>
@@ -182,7 +182,7 @@ https://templatemo.com/tm-545-finance-business
 		  <div class="col-md-12">
             <div class="more-info-content">
               <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 d-none d-md-block">
                   <div class="left-image">
                     <img src="assets/gifs/Durability.gif" alt="">
                   </div>
