@@ -125,8 +125,14 @@ https://templatemo.com/tm-545-finance-business
           <div class="col-md-12" id="signature">
             <div class="more-info-content">
               <div class="row">
+                <div class="col-md-6 d-md-none">
+                  <div class="left-image">
+                    <img src="assets/gifs/Durability.gif" alt="">
+                  </div>
+                </div>
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
+                  <hr class="border border-3 opacity-50">
                     <span><?php echo $lang["signature1-span"]; ?></span>
                     <h2><?php echo $lang["signature1-h2"]; ?><em></em></h2>
                     <p><?php echo $lang["signature1-p"]; ?></p>
@@ -151,6 +157,7 @@ https://templatemo.com/tm-545-finance-business
                 </div>
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
+                    <hr class="border border-3 opacity-50">
                     <span><?php echo $lang["signature2-span"]; ?></span>
                     <h2><?php echo $lang["signature2-h2"]; ?></h2>
                     <p><?php echo $lang["signature2-p"]; ?></p>
@@ -165,6 +172,7 @@ https://templatemo.com/tm-545-finance-business
               <div class="row">
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
+                    <hr class="border border-3 opacity-50">
                     <span><?php echo $lang["signature3-span"]; ?></span>
                     <h2><?php echo $lang["signature3-h2"]; ?></h2>
                     <p><?php echo $lang["signature3-p"]; ?></p>
@@ -189,6 +197,7 @@ https://templatemo.com/tm-545-finance-business
                 </div>
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
+                    <hr class="border border-3 opacity-50">
                     <span><?php echo $lang["signature4-span"]; ?></span>
                     <h2><?php echo $lang["signature4-h2"]; ?></h2>
                     <p><?php echo $lang["signature4-p"]; ?></p>
