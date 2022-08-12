@@ -67,7 +67,8 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>Green Planet Communication</h2></a>
+          <a href="index.php" class="d-lg-none"><img src="assets/images/logo-w.png" alt="logo" width="40" height="40" style="margin-left: 20px; margin-top: 5px;"></a>
+          <a class="navbar-brand d-none d-lg-block" href="index.php"><h2>Green Planet Communication</h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -117,7 +118,7 @@ https://templatemo.com/tm-545-finance-business
     <div class="more-info about-info">
       <div class="container">
         <div class="row">
-		  <div class="col-md-12">
+		      <div class="col-md-12">
             <div class="section-heading">
               <h2><?php echo $lang["signature-h2"]; ?><em><?php echo $lang["signature-h2-em"]; ?></em></h2>
             </div>
