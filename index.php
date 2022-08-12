@@ -177,7 +177,7 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2><img src="assets/images/logo.png" width="450" height="80"></h2>
+              <h2><img src="assets/images/logo.png" class="mw-50" width="400" height="70"></h2>
               <span><?php echo $lang["slogan"]; ?></span>
             </div>
           </div>
