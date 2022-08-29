@@ -209,13 +209,13 @@ $lang = array(
 	"section-heading-h1-3" => "Nous contacter",
 	"section-heading-span" => "Nous avons 20 ans d'expériences",
 	//Contact information
-	"contact-item1-h4" => "Phone",
+	"contact-item1-h4" => "Téléphone",
 	"contact-item1-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
 	"Contact-item1-a" => "+33 6 30 07 70 20",
-	"contact-item2-h4" => "Email",
+	"contact-item2-h4" => "E-mail",
 	"contact-item2-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
 	"Contact-item2-a" => "info@greenplanetcommunication.com",
-	"contact-item3-h4" => "Location",
+	"contact-item3-h4" => "Emplacement",
 	"contact-item3-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
 	"Contact-item3-a" => "Vue sur Google Maps",
 	//Call back (already declared)
