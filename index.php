@@ -46,8 +46,8 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <ul class="left-info">
-              <li><a href="#"><img src="assets/images/logo.png" width="250px" height="50px"></a></li>
-              <li><a href="#"><i class="fa fa-phone"></i>0033 6 12 34 56 78</a></li>
+              <li><a href="https://greenplanetcommunication.com/"><img src="assets/images/logo.png" width="250px" height="50px"></a></li>
+              <li><a href="#"><i class="fa fa-phone"></i>+33 6 30 07 70 20</a></li>
             </ul>
           </div>
           <div class="col-md-4">

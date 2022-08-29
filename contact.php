@@ -47,8 +47,10 @@ https://templatemo.com/tm-545-finance-business
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <ul class="left-info">
+            <li><a href="https://greenplanetcommunication.com/"><img src="assets/images/logo.png" width="250px" height="50px"></a></li>
+
               <li><a href="#"><i class="fa fa-clock-o"></i><?php echo $lang['Availability']; ?> 09:00-17:00</a></li>
-              <li><a href="#"><i class="fa fa-phone"></i>090-080-0760</a></li>
+              <li><a href="#"><i class="fa fa-phone"></i>+33 6 30 07 70 20</a></li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -120,7 +122,6 @@ https://templatemo.com/tm-545-finance-business
             <div class="contact-item">
               <i class="fa fa-phone"></i>
               <h4><?php echo $lang["contact-item1-h4"]; ?></h4>
-              <p><?php echo $lang["contact-item1-p"]; ?></p>
               <a href="#"><?php echo $lang["Contact-item1-a"]; ?></a>
             </div>
           </div>
@@ -128,7 +129,6 @@ https://templatemo.com/tm-545-finance-business
             <div class="contact-item">
               <i class="fa fa-envelope"></i>
               <h4><?php echo $lang["contact-item2-h4"]; ?></h4>
-              <p><?php echo $lang["contact-item2-p"]; ?></p>
               <a href="#"><?php echo $lang["Contact-item2-a"]; ?></a>
             </div>
           </div>
@@ -136,7 +136,6 @@ https://templatemo.com/tm-545-finance-business
             <div class="contact-item">
               <i class="fa fa-map-marker"></i>
               <h4><?php echo $lang["contact-item3-h4"]; ?></h4>
-              <p><?php echo $lang["contact-item3-p"]; ?></p>
               <a href="#"><?php echo $lang["Contact-item3-a"]; ?></a>
             </div>
           </div>
@@ -197,7 +196,7 @@ https://templatemo.com/tm-545-finance-business
 	3. Click "Share" and choose "Embed map" tab
 	4. Copy only URL and paste it within the src="" field below
 -->
-      <iframe src="https://maps.google.com/maps?q=Av.+Lúcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe src="https://maps.google.com/maps?q=E-Valley+–+Parc+E-Logistique+Épinoy-Cambrai,+France&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
 
     <div class="partners contact-partners">

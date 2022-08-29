@@ -211,10 +211,10 @@ $lang = array(
 	//Contact information
 	"contact-item1-h4" => "Phone",
 	"contact-item1-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
-	"Contact-item1-a" => "090-080-0760",
+	"Contact-item1-a" => "+33 6 30 07 70 20",
 	"contact-item2-h4" => "Email",
 	"contact-item2-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
-	"Contact-item2-a" => "info@company.com",
+	"Contact-item2-a" => "info@greenplanetcommunication.com",
 	"contact-item3-h4" => "Location",
 	"contact-item3-p" => "Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.",
 	"Contact-item3-a" => "Vue sur Google Maps",
